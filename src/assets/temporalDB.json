@@ -138,9 +138,9 @@
         "id": 4,
         "date": "2024-12-27T03:00:00.000Z",
         "ticker": "NEAR",
-        "amount": 224.0638,
-        "initialPrice": 5.06506330625474,
-        "initialTotal": 1134.89733164,
+        "amount": 314.3638,
+        "initialPrice": 4.39489830457578,
+        "initialTotal": 1381.59693164,
         "UserId": 1,
         "Operations": [
             {
@@ -166,6 +166,18 @@
                 "exchange": "",
                 "comment": "",
                 "HoldingId": 4
+            },
+            {
+                "id": 69,
+                "date": "2025-03-20T03:00:00.000Z",
+                "ticker": "NEAR",
+                "number": 90.3,
+                "price": 2.732,
+                "total": 246.6996,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 4
             }
         ],
         "User": {
@@ -175,9 +187,9 @@
         },
         "Tasks": [],
         "actualPrice": 2.73991060770474,
-        "actualTotal": 613.914782422634,
-        "profits": -520.982549217366,
-        "profitsPercent": -45.905698664787
+        "actualTotal": 861.328710298372,
+        "profits": -520.268221341628,
+        "profitsPercent": -37.657019165789
     },
     {
         "id": 5,
