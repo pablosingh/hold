@@ -81,9 +81,9 @@
         "id": 3,
         "date": "2024-12-31T03:00:00.000Z",
         "ticker": "VIRTUAL",
-        "amount": 433.7,
-        "initialPrice": 2.60185281922988,
-        "initialTotal": 1128.4235677,
+        "amount": 1359.45,
+        "initialPrice": 1.38096680105925,
+        "initialTotal": 1877.3553177,
         "UserId": 1,
         "Operations": [
             {
@@ -121,6 +121,18 @@
                 "exchange": "",
                 "comment": "",
                 "HoldingId": 3
+            },
+            {
+                "id": 71,
+                "date": "2025-03-24T03:00:00.000Z",
+                "ticker": "VIRTUAL",
+                "number": 925.75,
+                "price": 0.809,
+                "total": 748.93175,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 3
             }
         ],
         "User": {
@@ -130,9 +142,9 @@
         },
         "Tasks": [],
         "actualPrice": 0.812748201667674,
-        "actualTotal": 352.48889506327,
-        "profits": -775.93467263673,
-        "profitsPercent": -68.7627141834934
+        "actualTotal": 1104.89054275712,
+        "profits": -772.46477494288,
+        "profitsPercent": -41.1464344367825
     },
     {
         "id": 4,
