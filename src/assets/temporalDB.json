@@ -27,10 +27,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.285337191182581,
-        "actualTotal": 0.279630447358929,
-        "profits": -0.700369552641071,
-        "profitsPercent": -71.4662808817419
+        "actualPrice": 0.269636355402576,
+        "actualTotal": 0.264243628294524,
+        "profits": -0.715756371705476,
+        "profitsPercent": -73.0363644597424
     },
     {
         "id": 2,
@@ -72,10 +72,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0069080693757239,
-        "actualTotal": 164.471101319252,
-        "profits": -252.541876042748,
-        "profitsPercent": -60.5597163043493
+        "actualPrice": 0.00662558217331226,
+        "actualTotal": 157.745491201249,
+        "profits": -259.267486160751,
+        "profitsPercent": -62.1725222559887
     },
     {
         "id": 3,
@@ -141,10 +141,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.591816311893013,
-        "actualTotal": 804.544685202957,
-        "profits": -1072.81063249704,
-        "profitsPercent": -57.1447835357759
+        "actualPrice": 0.561886888574747,
+        "actualTotal": 763.85713067294,
+        "profits": -1113.49818702706,
+        "profitsPercent": -59.3120639725908
     },
     {
         "id": 4,
@@ -198,10 +198,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 2.62088474229117,
-        "actualTotal": 823.911286948671,
-        "profits": -557.685644691328,
-        "profitsPercent": -40.3652926493791
+        "actualPrice": 2.53414232967939,
+        "actualTotal": 796.642612498865,
+        "profits": -584.954319141135,
+        "profitsPercent": -42.3389995841099
     },
     {
         "id": 5,
@@ -231,10 +231,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 6.25084881156232,
-        "actualTotal": 505.311116908124,
-        "profits": 205.916537228124,
-        "profitsPercent": 68.7776436862059
+        "actualPrice": 6.3331762532831,
+        "actualTotal": 511.966368503902,
+        "profits": 212.571788823902,
+        "profitsPercent": 71.0005468539555
     },
     {
         "id": 6,
@@ -264,10 +264,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0757882119493903,
-        "actualTotal": 46.4581739249763,
-        "profits": -93.3916460750237,
-        "profitsPercent": -66.77995443614
+        "actualPrice": 0.072241860970361,
+        "actualTotal": 44.2842607748313,
+        "profits": -95.5655592251687,
+        "profitsPercent": -68.3344170376256
     },
     {
         "id": 7,
@@ -297,10 +297,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.36480168096686,
-        "actualTotal": 159.42366068706,
-        "profits": -240.87297262094,
-        "profitsPercent": -60.1736194057883
+        "actualPrice": 0.336298350744063,
+        "actualTotal": 146.967289231076,
+        "profits": -253.329344076924,
+        "profitsPercent": -63.2854046219281
     },
     {
         "id": 8,
@@ -330,10 +330,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1.77170632403538,
-        "actualTotal": 45.5328525277092,
-        "profits": -80.8443274722908,
-        "profitsPercent": -63.9706689706882
+        "actualPrice": 1.8863882683378,
+        "actualTotal": 48.4801784962813,
+        "profits": -77.8970015037187,
+        "profitsPercent": -61.6385026978119
     },
     {
         "id": 9,
@@ -399,10 +399,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.00197782501161296,
-        "actualTotal": 93.2108837460204,
-        "profits": -49.6113915452996,
-        "profitsPercent": -34.7364523104714
+        "actualPrice": 0.00188145987432338,
+        "actualTotal": 88.6693901576958,
+        "profits": -54.1528851336242,
+        "profitsPercent": -37.9162739307762
     },
     {
         "id": 10,
@@ -444,10 +444,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.00125879145348564,
-        "actualTotal": 48.530186906232,
-        "profits": -76.392336093768,
-        "profitsPercent": -61.1517717215557
+        "actualPrice": 0.00116621688451012,
+        "actualTotal": 44.9611595485188,
+        "profits": -79.9613634514812,
+        "profitsPercent": -64.0087644175111
     },
     {
         "id": 11,
@@ -501,10 +501,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0318196796846502,
-        "actualTotal": 62.8120476974995,
-        "profits": -117.1576603025,
-        "profitsPercent": -65.0985444186532
+        "actualPrice": 0.0301925314344256,
+        "actualTotal": 59.6000570515561,
+        "profits": -120.369650948444,
+        "profitsPercent": -66.8832840182437
     },
     {
         "id": 12,
@@ -534,10 +534,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.00495735987220828,
-        "actualTotal": 77.8751662325199,
-        "profits": -8.96418576748008,
-        "profitsPercent": -10.3227230063625
+        "actualPrice": 0.00475861759863103,
+        "actualTotal": 74.7531238568949,
+        "profits": -12.0862281431051,
+        "profitsPercent": -13.9179160884401
     },
     {
         "id": 13,
@@ -579,10 +579,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0352870303890214,
-        "actualTotal": 36.3689307407488,
-        "profits": -57.5627807592512,
-        "profitsPercent": -61.2815202023134
+        "actualPrice": 0.0338913234124435,
+        "actualTotal": 34.9304313882691,
+        "profits": -59.0012801117309,
+        "profitsPercent": -62.812951206293
     },
     {
         "id": 14,
@@ -612,10 +612,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.326315231287593,
-        "actualTotal": 11.9105059419971,
-        "profits": -18.0231440580029,
-        "profitsPercent": -60.2103120000497
+        "actualPrice": 0.314553142427489,
+        "actualTotal": 11.4811896986034,
+        "profits": -18.4524603013966,
+        "profitsPercent": -61.644538174919
     },
     {
         "id": 15,
@@ -645,10 +645,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0021911598801535,
-        "actualTotal": 28.2813005731413,
-        "profits": -101.653468426859,
-        "profitsPercent": -78.2342318451028
+        "actualPrice": 0.0021650331645288,
+        "actualTotal": 27.9440830545732,
+        "profits": -101.990685945427,
+        "profitsPercent": -78.4937601616291
     },
     {
         "id": 16,
@@ -678,10 +678,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0779758405047821,
-        "actualTotal": 23.0535572452388,
-        "profits": -18.8787779047612,
-        "profitsPercent": -45.022004706459
+        "actualPrice": 0.0719466905883287,
+        "actualTotal": 21.2710390724394,
+        "profits": -20.6612960775606,
+        "profitsPercent": -49.2729441459704
     },
     {
         "id": 17,
@@ -711,10 +711,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.741723790171503,
-        "actualTotal": 18.6172671333047,
-        "profits": -26.3393428666953,
-        "profitsPercent": -58.5883652408295
+        "actualPrice": 0.713337083218887,
+        "actualTotal": 17.9047607887941,
+        "profits": -27.0518492112059,
+        "profitsPercent": -60.1732408453527
     },
     {
         "id": 18,
@@ -744,10 +744,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 4.11076110600439,
-        "actualTotal": 46.9037842195101,
-        "profits": -29.0822517804899,
-        "profitsPercent": -38.2731529520633
+        "actualPrice": 4.06550241688969,
+        "actualTotal": 46.3873825767114,
+        "profits": -29.5986534232886,
+        "profitsPercent": -38.9527536655401
     },
     {
         "id": 19,
@@ -777,10 +777,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 4.32221504127445,
-        "actualTotal": 52.6445792027228,
-        "profits": -37.2608727972772,
-        "profitsPercent": -41.4445086125335
+        "actualPrice": 4.38710130861912,
+        "actualTotal": 53.4348939389808,
+        "profits": -36.4705580610192,
+        "profitsPercent": -40.5654576554703
     },
     {
         "id": 20,
@@ -810,10 +810,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 13.1937636892486,
-        "actualTotal": 16.9935676317522,
-        "profits": -72.9217123682478,
-        "profitsPercent": -81.1004674269466
+        "actualPrice": 12.4915025661541,
+        "actualTotal": 16.0890553052064,
+        "profits": -73.8262246947936,
+        "profitsPercent": -82.1064280673914
     },
     {
         "id": 21,
@@ -843,10 +843,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.173933747324684,
-        "actualTotal": 33.9170807283134,
-        "profits": -33.3774192716866,
-        "profitsPercent": -49.5990300421083
+        "actualPrice": 0.166691385383618,
+        "actualTotal": 32.5048201498056,
+        "profits": -34.7896798501944,
+        "profitsPercent": -51.6976570896498
     },
     {
         "id": 22,
@@ -888,10 +888,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 8.78032410933634,
-        "actualTotal": 472.030224117922,
-        "profits": -285.908075882078,
-        "profitsPercent": -37.7218140160061
+        "actualPrice": 8.60851426950319,
+        "actualTotal": 462.793727128492,
+        "profits": -295.144572871508,
+        "profitsPercent": -38.9404484337984
     },
     {
         "id": 23,
@@ -921,10 +921,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.395202992166634,
-        "actualTotal": 70.8006160466526,
-        "profits": -48.7963409533474,
-        "profitsPercent": -40.8006542786431
+        "actualPrice": 0.385684496062943,
+        "actualTotal": 69.0953774696762,
+        "profits": -50.5015795303238,
+        "profitsPercent": -42.226475319371
     },
     {
         "id": 25,
@@ -954,10 +954,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.787551044204824,
-        "actualTotal": 33.0771438566026,
-        "profits": -50.9228561433974,
-        "profitsPercent": -60.6224477897588
+        "actualPrice": 0.744690154214988,
+        "actualTotal": 31.2769864770295,
+        "profits": -52.7230135229705,
+        "profitsPercent": -62.7654922892506
     },
     {
         "id": 26,
@@ -987,10 +987,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 3.00502358176787,
-        "actualTotal": 111.997228892488,
-        "profits": -55.1475401075117,
-        "profitsPercent": -32.9938773659807
+        "actualPrice": 3.06154577344498,
+        "actualTotal": 114.103810976294,
+        "profits": -53.0409580237056,
+        "profitsPercent": -31.7335435269922
     },
     {
         "id": 27,
@@ -1020,10 +1020,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 3.6838276025652,
-        "actualTotal": 195.902636459575,
-        "profits": -185.774400060425,
-        "profitsPercent": -48.6731928528508
+        "actualPrice": 3.40448924166906,
+        "actualTotal": 181.047673831643,
+        "profits": -200.629362688357,
+        "profitsPercent": -52.5652170530421
     },
     {
         "id": 28,
@@ -1053,10 +1053,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.270744431801897,
-        "actualTotal": 22.4717878395574,
-        "profits": -5.34981216044257,
-        "profitsPercent": -19.2289881259258
+        "actualPrice": 0.263612113433906,
+        "actualTotal": 21.8798054150142,
+        "profits": -5.94179458498579,
+        "profitsPercent": -21.3567680686438
     },
     {
         "id": 29,
@@ -1086,10 +1086,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.19771301142114,
-        "actualTotal": 113.552513849503,
-        "profits": -236.042157150497,
-        "profitsPercent": -67.5188087036077
+        "actualPrice": 0.189766810639921,
+        "actualTotal": 108.988772354826,
+        "profits": -240.605898645174,
+        "profitsPercent": -68.8242466502512
     },
     {
         "id": 30,
@@ -1131,10 +1131,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 229.555240337986,
-        "actualTotal": 259.8565320626,
-        "profits": -91.3435279374003,
-        "profitsPercent": -26.0089727596858
+        "actualPrice": 216.857221083588,
+        "actualTotal": 245.482374266622,
+        "profits": -105.717685733378,
+        "profitsPercent": -30.1018415923329
     },
     {
         "id": 31,
@@ -1176,10 +1176,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.457559438651903,
-        "actualTotal": 448.087958271809,
-        "profits": -304.396141728191,
-        "profitsPercent": -40.4521692522395
+        "actualPrice": 0.445617855838331,
+        "actualTotal": 436.393566222477,
+        "profits": -316.090533777523,
+        "profitsPercent": -42.006274122938
     },
     {
         "id": 32,
@@ -1245,10 +1245,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 125.510726018202,
-        "actualTotal": 766.996046697233,
-        "profits": -313.116803302767,
-        "profitsPercent": -28.9892674920743
+        "actualPrice": 119.520614507385,
+        "actualTotal": 730.390475254632,
+        "profits": -349.722374745368,
+        "profitsPercent": -32.3783181308665
     },
     {
         "id": 33,
@@ -1278,10 +1278,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 4.02945312152446,
-        "actualTotal": 520.000925332732,
-        "profits": -282.044824667268,
-        "profitsPercent": -35.1656778515774
+        "actualPrice": 3.83388771312139,
+        "actualTotal": 494.763209378316,
+        "profits": -307.282540621684,
+        "profitsPercent": -38.312345726124
     },
     {
         "id": 34,
@@ -1311,10 +1311,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 606.92042173035,
-        "actualTotal": 607.527342152081,
-        "profits": 37.4681524520806,
-        "profitsPercent": 6.57267756209643
+        "actualPrice": 601.723885769624,
+        "actualTotal": 602.325609655393,
+        "profits": 32.2664199553931,
+        "profitsPercent": 5.66018766794614
     },
     {
         "id": 35,
@@ -1344,10 +1344,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 13.8248166593181,
-        "actualTotal": 776.262072939043,
-        "profits": -124.752912400957,
-        "profitsPercent": -13.8458199287198
+        "actualPrice": 13.2334366631155,
+        "actualTotal": 743.056145290272,
+        "profits": -157.958840049728,
+        "profitsPercent": -17.5312112028994
     },
     {
         "id": 36,
@@ -1377,10 +1377,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 84875.1798165463,
-        "actualTotal": 1959.47932635268,
-        "profits": 398.665938072477,
-        "profitsPercent": 25.5421910822889
+        "actualPrice": 83801.3646111744,
+        "actualTotal": 1934.68858423234,
+        "profits": 373.87519595214,
+        "profitsPercent": 23.9538691018084
     },
     {
         "id": 37,
@@ -1410,10 +1410,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.815333440959568,
-        "actualTotal": 1399.57692474797,
-        "profits": -668.107169332034,
-        "profitsPercent": -32.3118590139033
+        "actualPrice": 0.816418893368198,
+        "actualTotal": 1401.44017978905,
+        "profits": -666.243914290953,
+        "profitsPercent": -32.2217458749371
     },
     {
         "id": 38,
@@ -1587,10 +1587,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1884.18052943987,
-        "actualTotal": 6616.82184713475,
-        "profits": -2995.33847123985,
-        "profitsPercent": -31.1619695471991
+        "actualPrice": 1826.85216007739,
+        "actualTotal": 6415.49739816009,
+        "profits": -3196.66292021451,
+        "profitsPercent": -33.2564461508593
     },
     {
         "id": 39,
@@ -1620,10 +1620,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.412780656134457,
-        "actualTotal": 222.612607853313,
-        "profits": -77.3460521466872,
-        "profitsPercent": -25.7855706338624
+        "actualPrice": 0.386146173243065,
+        "actualTotal": 208.248631229985,
+        "profits": -91.710028770015,
+        "profitsPercent": -30.5742227178955
     },
     {
         "id": 40,
@@ -1653,10 +1653,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 163.843143978741,
-        "actualTotal": 93.5544352118609,
-        "profits": -18.7669747881391,
-        "profitsPercent": -16.7082792035278
+        "actualPrice": 155.065962664473,
+        "actualTotal": 88.5426646814142,
+        "profits": -23.7787453185858,
+        "profitsPercent": -21.1702696027283
     },
     {
         "id": 41,
@@ -1686,10 +1686,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 13.1350032383285,
-        "actualTotal": 80.5175698509535,
-        "profits": -14.9020101490465,
-        "profitsPercent": -15.6173503897696
+        "actualPrice": 12.4720441285675,
+        "actualTotal": 76.4536305081189,
+        "profits": -18.9659494918811,
+        "profitsPercent": -19.8763707531317
     },
     {
         "id": 42,
@@ -1719,9 +1719,9 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.502162666088395,
-        "actualTotal": 120.016877195126,
-        "profits": 15.7889771951265,
-        "profitsPercent": 15.1485132053188
+        "actualPrice": 0.478864142994105,
+        "actualTotal": 114.448530175591,
+        "profits": 10.2206301755912,
+        "profitsPercent": 9.80604058566964
     }
 ]
