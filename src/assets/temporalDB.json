@@ -1419,9 +1419,9 @@
         "id": 38,
         "date": "2024-03-16T03:00:00.000Z",
         "ticker": "ETH",
-        "amount": 4.222247,
-        "initialPrice": 2557.50580458097,
-        "initialTotal": 10798.4212108746,
+        "amount": 4.64375,
+        "initialPrice": 2471.80231510624,
+        "initialTotal": 11478.4320007746,
         "UserId": 1,
         "Operations": [
             {
@@ -1603,6 +1603,18 @@
                 "exchange": "b",
                 "comment": "",
                 "HoldingId": 38
+            },
+            {
+                "id": 76,
+                "date": "2025-04-07T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.421503,
+                "price": 1613.3,
+                "total": 680.0107899,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 38
             }
         ],
         "User": {
@@ -1612,9 +1624,9 @@
         },
         "Tasks": [],
         "actualPrice": 1473.01490452599,
-        "actualTotal": 6219.43276159013,
-        "profits": -4578.98844928447,
-        "profitsPercent": -42.4042400260621
+        "actualTotal": 6840.31296289255,
+        "profits": -4638.11903788205,
+        "profitsPercent": -40.407252816143
     },
     {
         "id": 39,
