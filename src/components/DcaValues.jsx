@@ -63,7 +63,7 @@ const DcaValues = (props) => {
     };
     useEffect(() => {
         const auxArrayAverage = [];
-        for (let i = 1; i <= 100; i++) {
+        for (let i = 1; i <= 10; i++) {
             auxArrayAverage.push(calculateAverage(initialTotal * i));
         }
         setArrayAverage([...auxArrayAverage]);
