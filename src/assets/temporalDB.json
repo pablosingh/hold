@@ -1473,9 +1473,9 @@
         "id": 36,
         "date": "2024-03-21T03:00:00.000Z",
         "ticker": "BTC",
-        "amount": 0.0230866,
-        "initialPrice": 67606.897,
-        "initialTotal": 1560.8133882802,
+        "amount": 0.04767257,
+        "initialPrice": 84656.9136839109,
+        "initialTotal": 4035.8126435802,
         "UserId": 1,
         "Operations": [
             {
@@ -1489,6 +1489,30 @@
                 "exchange": "",
                 "comment": "",
                 "HoldingId": 36
+            },
+            {
+                "id": 89,
+                "date": "2025-06-21T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.00975081,
+                "price": 101530,
+                "total": 989.9997393,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 36
+            },
+            {
+                "id": 90,
+                "date": "2025-06-22T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.01483516,
+                "price": 100100,
+                "total": 1484.999516,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 36
             }
         ],
         "User": {
@@ -1498,9 +1522,9 @@
         },
         "Tasks": [],
         "actualPrice": 107040.794752575,
-        "actualTotal": 2471.20801213481,
-        "profits": 910.394623854606,
-        "profitsPercent": 58.3282172417636
+        "actualTotal": 5102.90978069778,
+        "profits": 1067.09713711758,
+        "profitsPercent": 26.4407005814559
     },
     {
         "id": 37,
