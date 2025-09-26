@@ -1599,9 +1599,9 @@
         "id": 38,
         "date": "2024-03-16T03:00:00.000Z",
         "ticker": "ETH",
-        "amount": 14.60885,
-        "initialPrice": 3539.40255010218,
-        "initialTotal": 51706.6009440603,
+        "amount": 18.41845,
+        "initialPrice": 3644.0537478485,
+        "initialTotal": 67117.8217520603,
         "UserId": 1,
         "Operations": [
             {
@@ -1927,6 +1927,54 @@
                 "exchange": "ne",
                 "comment": "target",
                 "HoldingId": 38
+            },
+            {
+                "id": 103,
+                "date": "2025-09-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4070.3,
+                "total": 8140.6,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 104,
+                "date": "2025-09-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.288,
+                "price": 3926.01,
+                "total": 1130.69088,
+                "buy": true,
+                "exchange": "binance",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 105,
+                "date": "2025-09-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.3716,
+                "price": 3834.58,
+                "total": 1424.929928,
+                "buy": true,
+                "exchange": "blo",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 106,
+                "date": "2025-09-24T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 1.15,
+                "price": 4100,
+                "total": 4715,
+                "buy": true,
+                "exchange": "olvido",
+                "comment": "olvido",
+                "HoldingId": 38
             }
         ],
         "User": {
@@ -1936,9 +1984,9 @@
         },
         "Tasks": [],
         "actualPrice": 3932.43994480923,
-        "actualTotal": 57448.4252877264,
-        "profits": 5741.82434366609,
-        "profitsPercent": 11.1046254033948
+        "actualTotal": 72429.4485014716,
+        "profits": 5311.62674941134,
+        "profitsPercent": 7.91388428699758
     },
     {
         "id": 39,
