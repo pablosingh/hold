@@ -1,2123 +1,2123 @@
 [
-  {
-    "id": 1,
-    "date": "2024-04-09T03:00:00.000Z",
-    "ticker": "SAGA",
-    "amount": 0.98,
-    "initialPrice": 1,
-    "initialTotal": 0.98,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 1,
         "date": "2024-04-09T03:00:00.000Z",
         "ticker": "SAGA",
-        "number": 0.98,
-        "price": 1,
-        "total": 0.98,
-        "buy": true,
-        "exchange": "bnb",
-        "comment": "airdrop",
-        "HoldingId": 1
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 0.98,
+        "initialPrice": 1,
+        "initialTotal": 0.98,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 1,
+                "date": "2024-04-09T03:00:00.000Z",
+                "ticker": "SAGA",
+                "number": 0.98,
+                "price": 1,
+                "total": 0.98,
+                "buy": true,
+                "exchange": "bnb",
+                "comment": "airdrop",
+                "HoldingId": 1
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.0790841940254863,
+        "actualTotal": 0.0775025101449766,
+        "profits": -0.902497489855023,
+        "profitsPercent": -92.0915805974514
     },
-    "Tasks": [],
-    "actualPrice": 0.08614782413225,
-    "actualTotal": 0.084424867649605,
-    "profits": -0.895575132350395,
-    "profitsPercent": -91.385217586775
-  },
-  {
-    "id": 2,
-    "date": "2025-01-02T03:00:00.000Z",
-    "ticker": "CSIX",
-    "amount": 124563.548,
-    "initialPrice": 0.00655898407262773,
-    "initialTotal": 817.010327362,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 2,
         "date": "2025-01-02T03:00:00.000Z",
         "ticker": "CSIX",
-        "number": 11567.78,
-        "price": 0.0187589,
-        "total": 216.998828242,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 2
-      },
-      {
-        "id": 41,
-        "date": "2025-01-20T03:00:00.000Z",
-        "ticker": "CSIX",
-        "number": 12240.768,
-        "price": 0.01634,
-        "total": 200.01414912,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 2
-      },
-      {
-        "id": 83,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "CSIX",
-        "number": 100755,
-        "price": 0.00397,
-        "total": 399.99735,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 2
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 124563.548,
+        "initialPrice": 0.00655898407262773,
+        "initialTotal": 817.010327362,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 2,
+                "date": "2025-01-02T03:00:00.000Z",
+                "ticker": "CSIX",
+                "number": 11567.78,
+                "price": 0.0187589,
+                "total": 216.998828242,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 2
+            },
+            {
+                "id": 41,
+                "date": "2025-01-20T03:00:00.000Z",
+                "ticker": "CSIX",
+                "number": 12240.768,
+                "price": 0.01634,
+                "total": 200.01414912,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 2
+            },
+            {
+                "id": 83,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "CSIX",
+                "number": 100755,
+                "price": 0.00397,
+                "total": 399.99735,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 2
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.00155552854881705,
+        "actualTotal": 193.762155055943,
+        "profits": -623.248172306057,
+        "profitsPercent": -76.2840017357466
     },
-    "Tasks": [],
-    "actualPrice": 0.00166276965060639,
-    "actualTotal": 207.120487186253,
-    "profits": -609.889840175748,
-    "profitsPercent": -74.6489756310655
-  },
-  {
-    "id": 3,
-    "date": "2024-12-31T03:00:00.000Z",
-    "ticker": "VIRTUAL",
-    "amount": 1359.45,
-    "initialPrice": 1.38096680105925,
-    "initialTotal": 1877.3553177,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 3,
         "date": "2024-12-31T03:00:00.000Z",
         "ticker": "VIRTUAL",
-        "number": 130.71,
-        "price": 3.27787,
-        "total": 428.4503877,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 3
-      },
-      {
-        "id": 39,
-        "date": "2025-01-20T03:00:00.000Z",
-        "ticker": "VIRTUAL",
-        "number": 115.11,
-        "price": 2.606,
-        "total": 299.97666,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 3
-      },
-      {
-        "id": 48,
-        "date": "2025-01-27T03:00:00.000Z",
-        "ticker": "VIRTUAL",
-        "number": 187.88,
-        "price": 2.129,
-        "total": 399.99652,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 3
-      },
-      {
-        "id": 71,
-        "date": "2025-03-24T03:00:00.000Z",
-        "ticker": "VIRTUAL",
-        "number": 925.75,
-        "price": 0.809,
-        "total": 748.93175,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 3
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1359.45,
+        "initialPrice": 1.38096680105925,
+        "initialTotal": 1877.3553177,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 3,
+                "date": "2024-12-31T03:00:00.000Z",
+                "ticker": "VIRTUAL",
+                "number": 130.71,
+                "price": 3.27787,
+                "total": 428.4503877,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 3
+            },
+            {
+                "id": 39,
+                "date": "2025-01-20T03:00:00.000Z",
+                "ticker": "VIRTUAL",
+                "number": 115.11,
+                "price": 2.606,
+                "total": 299.97666,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 3
+            },
+            {
+                "id": 48,
+                "date": "2025-01-27T03:00:00.000Z",
+                "ticker": "VIRTUAL",
+                "number": 187.88,
+                "price": 2.129,
+                "total": 399.99652,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 3
+            },
+            {
+                "id": 71,
+                "date": "2025-03-24T03:00:00.000Z",
+                "ticker": "VIRTUAL",
+                "number": 925.75,
+                "price": 0.809,
+                "total": 748.93175,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 3
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 1.06740229541644,
+        "actualTotal": 1451.08005050387,
+        "profits": -426.275267196127,
+        "profitsPercent": -22.7061581351775
     },
-    "Tasks": [],
-    "actualPrice": 1.15540466623316,
-    "actualTotal": 1570.71487351066,
-    "profits": -306.640444189336,
-    "profitsPercent": -16.333639205018
-  },
-  {
-    "id": 4,
-    "date": "2024-12-27T03:00:00.000Z",
-    "ticker": "NEAR",
-    "amount": 314.3638,
-    "initialPrice": 4.39489830457578,
-    "initialTotal": 1381.59693164,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 4,
         "date": "2024-12-27T03:00:00.000Z",
         "ticker": "NEAR",
-        "number": 182.5691,
-        "price": 5.1644,
-        "total": 942.85986004,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 4
-      },
-      {
-        "id": 49,
-        "date": "2025-01-27T03:00:00.000Z",
-        "ticker": "NEAR",
-        "number": 41.4947,
-        "price": 4.628,
-        "total": 192.0374716,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 4
-      },
-      {
-        "id": 69,
-        "date": "2025-03-20T03:00:00.000Z",
-        "ticker": "NEAR",
-        "number": 90.3,
-        "price": 2.732,
-        "total": 246.6996,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 4
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 314.3638,
+        "initialPrice": 4.39489830457578,
+        "initialTotal": 1381.59693164,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 4,
+                "date": "2024-12-27T03:00:00.000Z",
+                "ticker": "NEAR",
+                "number": 182.5691,
+                "price": 5.1644,
+                "total": 942.85986004,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 4
+            },
+            {
+                "id": 49,
+                "date": "2025-01-27T03:00:00.000Z",
+                "ticker": "NEAR",
+                "number": 41.4947,
+                "price": 4.628,
+                "total": 192.0374716,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 4
+            },
+            {
+                "id": 69,
+                "date": "2025-03-20T03:00:00.000Z",
+                "ticker": "NEAR",
+                "number": 90.3,
+                "price": 2.732,
+                "total": 246.6996,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 4
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 2.21423885112612,
+        "actualTotal": 696.076539347641,
+        "profits": -685.520392292359,
+        "profitsPercent": -49.6179729842498
     },
-    "Tasks": [],
-    "actualPrice": 2.45360372708351,
-    "actualTotal": 771.324191340135,
-    "profits": -610.272740299865,
-    "profitsPercent": -44.1715471657462
-  },
-  {
-    "id": 5,
-    "date": "2024-12-27T03:00:00.000Z",
-    "ticker": "OM",
-    "amount": 80.8388,
-    "initialPrice": 3.7036,
-    "initialTotal": 299.39457968,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 5,
         "date": "2024-12-27T03:00:00.000Z",
         "ticker": "OM",
-        "number": 80.8388,
-        "price": 3.7036,
-        "total": 299.39457968,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 5
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 80.8388,
+        "initialPrice": 3.7036,
+        "initialTotal": 299.39457968,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 5,
+                "date": "2024-12-27T03:00:00.000Z",
+                "ticker": "OM",
+                "number": 80.8388,
+                "price": 3.7036,
+                "total": 299.39457968,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 5
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.0791624204302009,
+        "actualTotal": 6.39939507267292,
+        "profits": -292.995184607327,
+        "profitsPercent": -97.862554799919
     },
-    "Tasks": [],
-    "actualPrice": 0.0859079913246609,
-    "actualTotal": 6.944698929096,
-    "profits": -292.449880750904,
-    "profitsPercent": -97.6804192859742
-  },
-  {
-    "id": 6,
-    "date": "2024-09-24T03:00:00.000Z",
-    "ticker": "DUSK",
-    "amount": 613,
-    "initialPrice": 0.22814,
-    "initialTotal": 139.84982,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 6,
         "date": "2024-09-24T03:00:00.000Z",
         "ticker": "DUSK",
-        "number": 613,
-        "price": 0.22814,
-        "total": 139.84982,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 6
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 613,
+        "initialPrice": 0.22814,
+        "initialTotal": 139.84982,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 6,
+                "date": "2024-09-24T03:00:00.000Z",
+                "ticker": "DUSK",
+                "number": 613,
+                "price": 0.22814,
+                "total": 139.84982,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 6
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.0691364649469266,
+        "actualTotal": 42.380653012466,
+        "profits": -97.469166987534,
+        "profitsPercent": -69.6955970251045
     },
-    "Tasks": [],
-    "actualPrice": 0.0558030422563076,
-    "actualTotal": 34.2072649031166,
-    "profits": -105.642555096883,
-    "profitsPercent": -75.540000764308
-  },
-  {
-    "id": 7,
-    "date": "2024-04-02T03:00:00.000Z",
-    "ticker": "ENA",
-    "amount": 437.0146,
-    "initialPrice": 0.91598,
-    "initialTotal": 400.296633308,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 7,
         "date": "2024-04-02T03:00:00.000Z",
         "ticker": "ENA",
-        "number": 437.0146,
-        "price": 0.91598,
-        "total": 400.296633308,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 7
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 437.0146,
+        "initialPrice": 0.91598,
+        "initialTotal": 400.296633308,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 7,
+                "date": "2024-04-02T03:00:00.000Z",
+                "ticker": "ENA",
+                "number": 437.0146,
+                "price": 0.91598,
+                "total": 400.296633308,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 7
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.259347148150953,
+        "actualTotal": 113.338490210329,
+        "profits": -286.958143097671,
+        "profitsPercent": -71.6863743585064
     },
-    "Tasks": [],
-    "actualPrice": 0.280750743071585,
-    "actualTotal": 122.692173683131,
-    "profits": -277.604459624869,
-    "profitsPercent": -69.3496863390484
-  },
-  {
-    "id": 8,
-    "date": "2024-12-05T03:00:00.000Z",
-    "ticker": "RAY",
-    "amount": 25.7,
-    "initialPrice": 4.9174,
-    "initialTotal": 126.37718,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 8,
         "date": "2024-12-05T03:00:00.000Z",
         "ticker": "RAY",
-        "number": 25.7,
-        "price": 4.9174,
-        "total": 126.37718,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 8
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 25.7,
+        "initialPrice": 4.9174,
+        "initialTotal": 126.37718,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 8,
+                "date": "2024-12-05T03:00:00.000Z",
+                "ticker": "RAY",
+                "number": 25.7,
+                "price": 4.9174,
+                "total": 126.37718,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 8
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 1.19198601980769,
+        "actualTotal": 30.6340407090578,
+        "profits": -95.7431392909422,
+        "profitsPercent": -75.7598320289646
     },
-    "Tasks": [],
-    "actualPrice": 1.34343671920925,
-    "actualTotal": 34.5263236836777,
-    "profits": -91.8508563163223,
-    "profitsPercent": -72.679938194793
-  },
-  {
-    "id": 9,
-    "date": "2024-12-19T03:00:00.000Z",
-    "ticker": "KLV",
-    "amount": 47127.973,
-    "initialPrice": 0.00303052022397229,
-    "initialTotal": 142.82227529132,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 9,
         "date": "2024-12-19T03:00:00.000Z",
         "ticker": "KLV",
-        "number": 691.83,
-        "price": 0.00469495,
-        "total": 3.2481072585,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 9
-      },
-      {
-        "id": 42,
-        "date": "2025-01-20T03:00:00.000Z",
-        "ticker": "KLV",
-        "number": 38034.9576,
-        "price": 0.003007,
-        "total": 114.3711175032,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 9
-      },
-      {
-        "id": 43,
-        "date": "2025-01-20T03:00:00.000Z",
-        "ticker": "KLV",
-        "number": 3344.4816,
-        "price": 0.003,
-        "total": 10.0334448,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 9
-      },
-      {
-        "id": 44,
-        "date": "2025-01-20T03:00:00.000Z",
-        "ticker": "KLV",
-        "number": 5056.7038,
-        "price": 0.0029999,
-        "total": 15.16960572962,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 9
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 47127.973,
+        "initialPrice": 0.00303052022397229,
+        "initialTotal": 142.82227529132,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 9,
+                "date": "2024-12-19T03:00:00.000Z",
+                "ticker": "KLV",
+                "number": 691.83,
+                "price": 0.00469495,
+                "total": 3.2481072585,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 9
+            },
+            {
+                "id": 42,
+                "date": "2025-01-20T03:00:00.000Z",
+                "ticker": "KLV",
+                "number": 38034.9576,
+                "price": 0.003007,
+                "total": 114.3711175032,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 9
+            },
+            {
+                "id": 43,
+                "date": "2025-01-20T03:00:00.000Z",
+                "ticker": "KLV",
+                "number": 3344.4816,
+                "price": 0.003,
+                "total": 10.0334448,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 9
+            },
+            {
+                "id": 44,
+                "date": "2025-01-20T03:00:00.000Z",
+                "ticker": "KLV",
+                "number": 5056.7038,
+                "price": 0.0029999,
+                "total": 15.16960572962,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 9
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.00202164533466393,
+        "actualTotal": 95.2760467476174,
+        "profits": -47.5462285437026,
+        "profitsPercent": -33.2904852879012
     },
-    "Tasks": [],
-    "actualPrice": 0.0021549181220579,
-    "actualTotal": 101.556923073555,
-    "profits": -41.2653522177647,
-    "profitsPercent": -28.8927985033106
-  },
-  {
-    "id": 10,
-    "date": "2024-12-19T03:00:00.000Z",
-    "ticker": "VRA",
-    "amount": 149368,
-    "initialPrice": 0.00178596301081892,
-    "initialTotal": 266.765723,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 10,
         "date": "2024-12-19T03:00:00.000Z",
         "ticker": "VRA",
-        "number": 5670,
-        "price": 0.004396,
-        "total": 24.92532,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 10
-      },
-      {
-        "id": 46,
-        "date": "2025-01-27T03:00:00.000Z",
-        "ticker": "VRA",
-        "number": 32883,
-        "price": 0.003041,
-        "total": 99.997203,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 10
-      },
-      {
-        "id": 82,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "VRA",
-        "number": 110815,
-        "price": 0.00128,
-        "total": 141.8432,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 10
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 149368,
+        "initialPrice": 0.00178596301081892,
+        "initialTotal": 266.765723,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 10,
+                "date": "2024-12-19T03:00:00.000Z",
+                "ticker": "VRA",
+                "number": 5670,
+                "price": 0.004396,
+                "total": 24.92532,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 10
+            },
+            {
+                "id": 46,
+                "date": "2025-01-27T03:00:00.000Z",
+                "ticker": "VRA",
+                "number": 32883,
+                "price": 0.003041,
+                "total": 99.997203,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 10
+            },
+            {
+                "id": 82,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "VRA",
+                "number": 110815,
+                "price": 0.00128,
+                "total": 141.8432,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 10
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.000354727438889593,
+        "actualTotal": 52.9849280920607,
+        "profits": -213.780794907939,
+        "profitsPercent": -80.1380299177115
     },
-    "Tasks": [],
-    "actualPrice": 0.000400716113173817,
-    "actualTotal": 59.8541643925467,
-    "profits": -206.911558607453,
-    "profitsPercent": -77.5630228203844
-  },
-  {
-    "id": 11,
-    "date": "2024-12-20T03:00:00.000Z",
-    "ticker": "BRETT",
-    "amount": 1974,
-    "initialPrice": 0.0911700648429585,
-    "initialTotal": 179.969708,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 11,
         "date": "2024-12-20T03:00:00.000Z",
         "ticker": "BRETT",
-        "number": 234.3,
-        "price": 0.128,
-        "total": 29.9904,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 11
-      },
-      {
-        "id": 40,
-        "date": "2025-01-20T03:00:00.000Z",
-        "ticker": "BRETT",
-        "number": 527.9,
-        "price": 0.09468,
-        "total": 49.981572,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 11
-      },
-      {
-        "id": 47,
-        "date": "2025-01-27T03:00:00.000Z",
-        "ticker": "BRETT",
-        "number": 1211.8,
-        "price": 0.08252,
-        "total": 99.997736,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 11
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1974,
+        "initialPrice": 0.0911700648429585,
+        "initialTotal": 179.969708,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 11,
+                "date": "2024-12-20T03:00:00.000Z",
+                "ticker": "BRETT",
+                "number": 234.3,
+                "price": 0.128,
+                "total": 29.9904,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 11
+            },
+            {
+                "id": 40,
+                "date": "2025-01-20T03:00:00.000Z",
+                "ticker": "BRETT",
+                "number": 527.9,
+                "price": 0.09468,
+                "total": 49.981572,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 11
+            },
+            {
+                "id": 47,
+                "date": "2025-01-27T03:00:00.000Z",
+                "ticker": "BRETT",
+                "number": 1211.8,
+                "price": 0.08252,
+                "total": 99.997736,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 11
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.0155945994423175,
+        "actualTotal": 30.7837392991348,
+        "profits": -149.185968700865,
+        "profitsPercent": -82.8950440375584
     },
-    "Tasks": [],
-    "actualPrice": 0.0187698519548796,
-    "actualTotal": 37.0516877589322,
-    "profits": -142.918020241068,
-    "profitsPercent": -79.4122643356557
-  },
-  {
-    "id": 12,
-    "date": "2024-12-20T03:00:00.000Z",
-    "ticker": "TEL",
-    "amount": 50886,
-    "initialPrice": 0.00412606320009433,
-    "initialTotal": 209.958852,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 12,
         "date": "2024-12-20T03:00:00.000Z",
         "ticker": "TEL",
-        "number": 15709,
-        "price": 0.005528,
-        "total": 86.839352,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 12
-      },
-      {
-        "id": 81,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "TEL",
-        "number": 35177,
-        "price": 0.0035,
-        "total": 123.1195,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 12
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 50886,
+        "initialPrice": 0.00412606320009433,
+        "initialTotal": 209.958852,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 12,
+                "date": "2024-12-20T03:00:00.000Z",
+                "ticker": "TEL",
+                "number": 15709,
+                "price": 0.005528,
+                "total": 86.839352,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 12
+            },
+            {
+                "id": 81,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "TEL",
+                "number": 35177,
+                "price": 0.0035,
+                "total": 123.1195,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 12
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.00649872609239028,
+        "actualTotal": 330.694175937372,
+        "profits": 120.735323937372,
+        "profitsPercent": 57.5042789514642
     },
-    "Tasks": [],
-    "actualPrice": 0.00588043637179556,
-    "actualTotal": 299.231885215189,
-    "profits": 89.2730332151889,
-    "profitsPercent": 42.5192995507467
-  },
-  {
-    "id": 13,
-    "date": "2024-12-20T03:00:00.000Z",
-    "ticker": "HMND",
-    "amount": 5179.44,
-    "initialPrice": 0.0374423915905967,
-    "initialTotal": 193.9306207,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 13,
         "date": "2024-12-20T03:00:00.000Z",
         "ticker": "HMND",
-        "number": 919.31,
-        "price": 0.09425,
-        "total": 86.6449675,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 13
-      },
-      {
-        "id": 45,
-        "date": "2025-01-27T03:00:00.000Z",
-        "ticker": "HMND",
-        "number": 111.35,
-        "price": 0.06544,
-        "total": 7.286744,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 13
-      },
-      {
-        "id": 85,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "HMND",
-        "number": 520,
-        "price": 0.02408,
-        "total": 12.5216,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 13
-      },
-      {
-        "id": 84,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "HMND",
-        "number": 3582.2,
-        "price": 0.02411,
-        "total": 86.366842,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 13
-      },
-      {
-        "id": 86,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "HMND",
-        "number": 46.58,
-        "price": 0.02384,
-        "total": 1.1104672,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 13
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 5179.44,
+        "initialPrice": 0.0374423915905967,
+        "initialTotal": 193.9306207,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 13,
+                "date": "2024-12-20T03:00:00.000Z",
+                "ticker": "HMND",
+                "number": 919.31,
+                "price": 0.09425,
+                "total": 86.6449675,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 13
+            },
+            {
+                "id": 45,
+                "date": "2025-01-27T03:00:00.000Z",
+                "ticker": "HMND",
+                "number": 111.35,
+                "price": 0.06544,
+                "total": 7.286744,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 13
+            },
+            {
+                "id": 85,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "HMND",
+                "number": 520,
+                "price": 0.02408,
+                "total": 12.5216,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 13
+            },
+            {
+                "id": 84,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "HMND",
+                "number": 3582.2,
+                "price": 0.02411,
+                "total": 86.366842,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 13
+            },
+            {
+                "id": 86,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "HMND",
+                "number": 46.58,
+                "price": 0.02384,
+                "total": 1.1104672,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 13
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.0076182297146874,
+        "actualTotal": 39.4581637134405,
+        "profits": -154.472456986559,
+        "profitsPercent": -79.6534639186866
     },
-    "Tasks": [],
-    "actualPrice": 0.00771570853426242,
-    "actualTotal": 39.9630494107002,
-    "profits": -153.9675712893,
-    "profitsPercent": -79.3931204538757
-  },
-  {
-    "id": 14,
-    "date": "2024-04-09T03:00:00.000Z",
-    "ticker": "ARB",
-    "amount": 36.5,
-    "initialPrice": 0.8201,
-    "initialTotal": 29.93365,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 14,
         "date": "2024-04-09T03:00:00.000Z",
         "ticker": "ARB",
-        "number": 36.5,
-        "price": 0.8201,
-        "total": 29.93365,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 14
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 36.5,
+        "initialPrice": 0.8201,
+        "initialTotal": 29.93365,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 14,
+                "date": "2024-04-09T03:00:00.000Z",
+                "ticker": "ARB",
+                "number": 36.5,
+                "price": 0.8201,
+                "total": 29.93365,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 14
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.225349381668682,
+        "actualTotal": 8.22525243090691,
+        "profits": -21.7083975690931,
+        "profitsPercent": -72.5217190990511
     },
-    "Tasks": [],
-    "actualPrice": 0.243373437005711,
-    "actualTotal": 8.88313045070847,
-    "profits": -21.0505195492915,
-    "profitsPercent": -70.3239315930117
-  },
-  {
-    "id": 15,
-    "date": "2024-06-10T03:00:00.000Z",
-    "ticker": "NOT",
-    "amount": 12907,
-    "initialPrice": 0.010067,
-    "initialTotal": 129.934769,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 15,
         "date": "2024-06-10T03:00:00.000Z",
         "ticker": "NOT",
-        "number": 12907,
-        "price": 0.010067,
-        "total": 129.934769,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 15
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 12907,
+        "initialPrice": 0.010067,
+        "initialTotal": 129.934769,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 15,
+                "date": "2024-06-10T03:00:00.000Z",
+                "ticker": "NOT",
+                "number": 12907,
+                "price": 0.010067,
+                "total": 129.934769,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 15
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.000642687017154407,
+        "actualTotal": 8.29516133041193,
+        "profits": -121.639607669588,
+        "profitsPercent": -93.6159032765034
     },
-    "Tasks": [],
-    "actualPrice": 0.000720550403466472,
-    "actualTotal": 9.30014405754176,
-    "profits": -120.634624942458,
-    "profitsPercent": -92.8424515400172
-  },
-  {
-    "id": 16,
-    "date": "2024-06-06T03:00:00.000Z",
-    "ticker": "CGPT",
-    "amount": 1631.85,
-    "initialPrice": 0.0931919607500689,
-    "initialTotal": 152.07530115,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 16,
         "date": "2024-06-06T03:00:00.000Z",
         "ticker": "CGPT",
-        "number": 295.65,
-        "price": 0.141831,
-        "total": 41.93233515,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 16
-      },
-      {
-        "id": 87,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "CGPT",
-        "number": 1336.2,
-        "price": 0.08243,
-        "total": 110.142966,
-        "buy": true,
-        "exchange": "by",
-        "comment": "",
-        "HoldingId": 16
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1631.85,
+        "initialPrice": 0.0931919607500689,
+        "initialTotal": 152.07530115,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 16,
+                "date": "2024-06-06T03:00:00.000Z",
+                "ticker": "CGPT",
+                "number": 295.65,
+                "price": 0.141831,
+                "total": 41.93233515,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 16
+            },
+            {
+                "id": 87,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "CGPT",
+                "number": 1336.2,
+                "price": 0.08243,
+                "total": 110.142966,
+                "buy": true,
+                "exchange": "by",
+                "comment": "",
+                "HoldingId": 16
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.040118765607262,
+        "actualTotal": 65.4678076562105,
+        "profits": -86.6074934937895,
+        "profitsPercent": -56.9504007809683
     },
-    "Tasks": [],
-    "actualPrice": 0.0433762067585288,
-    "actualTotal": 70.7834629989051,
-    "profits": -81.2918381510949,
-    "profitsPercent": -53.4549907423247
-  },
-  {
-    "id": 17,
-    "date": "2024-04-09T03:00:00.000Z",
-    "ticker": "OP",
-    "amount": 25.1,
-    "initialPrice": 1.7911,
-    "initialTotal": 44.95661,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 17,
         "date": "2024-04-09T03:00:00.000Z",
         "ticker": "OP",
-        "number": 25.1,
-        "price": 1.7911,
-        "total": 44.95661,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 17
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 25.1,
+        "initialPrice": 1.7911,
+        "initialTotal": 44.95661,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 17,
+                "date": "2024-04-09T03:00:00.000Z",
+                "ticker": "OP",
+                "number": 25.1,
+                "price": 1.7911,
+                "total": 44.95661,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 17
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.362281630714144,
+        "actualTotal": 9.093268930925,
+        "profits": -35.863341069075,
+        "profitsPercent": -79.7732326104548
     },
-    "Tasks": [],
-    "actualPrice": 0.392265653873768,
-    "actualTotal": 9.84586791223158,
-    "profits": -35.1107420877684,
-    "profitsPercent": -78.0991762674464
-  },
-  {
-    "id": 18,
-    "date": "2024-04-09T03:00:00.000Z",
-    "ticker": "DOT",
-    "amount": 11.41,
-    "initialPrice": 6.6596,
-    "initialTotal": 75.986036,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 18,
         "date": "2024-04-09T03:00:00.000Z",
         "ticker": "DOT",
-        "number": 11.41,
-        "price": 6.6596,
-        "total": 75.986036,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 18
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 11.41,
+        "initialPrice": 6.6596,
+        "initialTotal": 75.986036,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 18,
+                "date": "2024-04-09T03:00:00.000Z",
+                "ticker": "DOT",
+                "number": 11.41,
+                "price": 6.6596,
+                "total": 75.986036,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 18
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 2.66654398981676,
+        "actualTotal": 30.4252669238092,
+        "profits": -45.5607690761908,
+        "profitsPercent": -59.9593971136891
     },
-    "Tasks": [],
-    "actualPrice": 2.87020658209518,
-    "actualTotal": 32.749057101706,
-    "profits": -43.236978898294,
-    "profitsPercent": -56.9012165581239
-  },
-  {
-    "id": 19,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "ATOM",
-    "amount": 12.18,
-    "initialPrice": 7.3814,
-    "initialTotal": 89.905452,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 19,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "ATOM",
-        "number": 12.18,
-        "price": 7.3814,
-        "total": 89.905452,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 19
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 12.18,
+        "initialPrice": 7.3814,
+        "initialTotal": 89.905452,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 19,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "ATOM",
+                "number": 12.18,
+                "price": 7.3814,
+                "total": 89.905452,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 19
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 2.69919721498397,
+        "actualTotal": 32.8762220785048,
+        "profits": -57.0292299214952,
+        "profitsPercent": -63.4324489258952
     },
-    "Tasks": [],
-    "actualPrice": 2.87936509776372,
-    "actualTotal": 35.0706668907621,
-    "profits": -54.8347851092379,
-    "profitsPercent": -60.9916127324936
-  },
-  {
-    "id": 20,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "ILV",
-    "amount": 1.288,
-    "initialPrice": 69.81,
-    "initialTotal": 89.91528,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 20,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "ILV",
-        "number": 1.288,
-        "price": 69.81,
-        "total": 89.91528,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 20
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1.288,
+        "initialPrice": 69.81,
+        "initialTotal": 89.91528,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 20,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "ILV",
+                "number": 1.288,
+                "price": 69.81,
+                "total": 89.91528,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 20
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 7.76574561286101,
+        "actualTotal": 10.002280349365,
+        "profits": -79.912999650635,
+        "profitsPercent": -88.875883665863
     },
-    "Tasks": [],
-    "actualPrice": 8.23355044717864,
-    "actualTotal": 10.6048129759661,
-    "profits": -79.3104670240339,
-    "profitsPercent": -88.2057721713528
-  },
-  {
-    "id": 21,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "SEI",
-    "amount": 195,
-    "initialPrice": 0.3451,
-    "initialTotal": 67.2945,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 21,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "SEI",
-        "number": 195,
-        "price": 0.3451,
-        "total": 67.2945,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 21
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 195,
+        "initialPrice": 0.3451,
+        "initialTotal": 67.2945,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 21,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "SEI",
+                "number": 195,
+                "price": 0.3451,
+                "total": 67.2945,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 21
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.147807402221557,
+        "actualTotal": 28.8224434332036,
+        "profits": -38.4720565667965,
+        "profitsPercent": -57.1696893012006
     },
-    "Tasks": [],
-    "actualPrice": 0.165022004236018,
-    "actualTotal": 32.1792908260235,
-    "profits": -35.1152091739765,
-    "profitsPercent": -52.1813954691342
-  },
-  {
-    "id": 22,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "INJ",
-    "amount": 53.76,
-    "initialPrice": 14.0985546875,
-    "initialTotal": 757.9383,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 22,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "INJ",
-        "number": 18.37,
-        "price": 19.49,
-        "total": 358.0313,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 22
-      },
-      {
-        "id": 63,
-        "date": "2025-03-08T03:00:00.000Z",
-        "ticker": "INJ",
-        "number": 35.39,
-        "price": 11.3,
-        "total": 399.907,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 22
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 53.76,
+        "initialPrice": 14.0985546875,
+        "initialTotal": 757.9383,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 22,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "INJ",
+                "number": 18.37,
+                "price": 19.49,
+                "total": 358.0313,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 22
+            },
+            {
+                "id": 63,
+                "date": "2025-03-08T03:00:00.000Z",
+                "ticker": "INJ",
+                "number": 35.39,
+                "price": 11.3,
+                "total": 399.907,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 22
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 6.26034067173502,
+        "actualTotal": 336.555914512475,
+        "profits": -421.382385487526,
+        "profitsPercent": -55.5958691475976
     },
-    "Tasks": [],
-    "actualPrice": 6.86348051805109,
-    "actualTotal": 368.980712650427,
-    "profits": -388.957587349574,
-    "profitsPercent": -51.3178430684363
-  },
-  {
-    "id": 23,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "KDA",
-    "amount": 179.15,
-    "initialPrice": 0.66758,
-    "initialTotal": 119.596957,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 23,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "KDA",
-        "number": 179.15,
-        "price": 0.66758,
-        "total": 119.596957,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 23
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 179.15,
+        "initialPrice": 0.66758,
+        "initialTotal": 119.596957,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 23,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "KDA",
+                "number": 179.15,
+                "price": 0.66758,
+                "total": 119.596957,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 23
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.0171604851602136,
+        "actualTotal": 3.07430091645227,
+        "profits": -116.522656083548,
+        "profitsPercent": -97.429448881001
     },
-    "Tasks": [],
-    "actualPrice": 0.0277700820472284,
-    "actualTotal": 4.97501019876097,
-    "profits": -114.621946801239,
-    "profitsPercent": -95.8401866372227
-  },
-  {
-    "id": 25,
-    "date": "2024-03-22T03:00:00.000Z",
-    "ticker": "WLD",
-    "amount": 42,
-    "initialPrice": 2,
-    "initialTotal": 84,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 25,
         "date": "2024-03-22T03:00:00.000Z",
         "ticker": "WLD",
-        "number": 42,
-        "price": 2,
-        "total": 84,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 25
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 42,
+        "initialPrice": 2,
+        "initialTotal": 84,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 25,
+                "date": "2024-03-22T03:00:00.000Z",
+                "ticker": "WLD",
+                "number": 42,
+                "price": 2,
+                "total": 84,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 25
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.64705889851054,
+        "actualTotal": 27.1764737374427,
+        "profits": -56.8235262625573,
+        "profitsPercent": -67.647055074473
     },
-    "Tasks": [],
-    "actualPrice": 0.700835227935706,
-    "actualTotal": 29.4350795732997,
-    "profits": -54.5649204267003,
-    "profitsPercent": -64.9582386032147
-  },
-  {
-    "id": 26,
-    "date": "2024-06-14T03:00:00.000Z",
-    "ticker": "PENDLE",
-    "amount": 37.27,
-    "initialPrice": 4.4847,
-    "initialTotal": 167.144769,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 26,
         "date": "2024-06-14T03:00:00.000Z",
         "ticker": "PENDLE",
-        "number": 37.27,
-        "price": 4.4847,
-        "total": 167.144769,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 26
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 37.27,
+        "initialPrice": 4.4847,
+        "initialTotal": 167.144769,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 26,
+                "date": "2024-06-14T03:00:00.000Z",
+                "ticker": "PENDLE",
+                "number": 37.27,
+                "price": 4.4847,
+                "total": 167.144769,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 26
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 2.25841392826341,
+        "actualTotal": 84.1710871063772,
+        "profits": -82.9736818936228,
+        "profitsPercent": -49.6418059566213
     },
-    "Tasks": [],
-    "actualPrice": 2.26444102377187,
-    "actualTotal": 84.3957169559775,
-    "profits": -82.7490520440226,
-    "profitsPercent": -49.5074135667522
-  },
-  {
-    "id": 27,
-    "date": "2024-06-14T03:00:00.000Z",
-    "ticker": "RENDER",
-    "amount": 185.559,
-    "initialPrice": 4.1586,
-    "initialTotal": 771.668,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 27,
         "date": "2024-06-14T03:00:00.000Z",
         "ticker": "RENDER",
-        "number": 53.1791,
-        "price": 7.1772,
-        "total": 381.67703652,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 27
-      },
-      {
-        "id": 88,
-        "date": "2025-06-23T03:00:00.000Z",
-        "ticker": "RENDER",
-        "number": 132.38,
-        "price": 2.946,
-        "total": 389.99148,
-        "buy": true,
-        "exchange": "by",
-        "comment": "",
-        "HoldingId": 27
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 185.559,
+        "initialPrice": 4.1586,
+        "initialTotal": 771.668,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 27,
+                "date": "2024-06-14T03:00:00.000Z",
+                "ticker": "RENDER",
+                "number": 53.1791,
+                "price": 7.1772,
+                "total": 381.67703652,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 27
+            },
+            {
+                "id": 88,
+                "date": "2025-06-23T03:00:00.000Z",
+                "ticker": "RENDER",
+                "number": 132.38,
+                "price": 2.946,
+                "total": 389.99148,
+                "buy": true,
+                "exchange": "by",
+                "comment": "",
+                "HoldingId": 27
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 1.93546503919758,
+        "actualTotal": 359.142957208464,
+        "profits": -412.525042791536,
+        "profitsPercent": -53.4588764587279
     },
-    "Tasks": [],
-    "actualPrice": 2.16931864435802,
-    "actualTotal": 402.53659832843,
-    "profits": -369.13140167157,
-    "profitsPercent": -47.8355201552442
-  },
-  {
-    "id": 28,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "SAND",
-    "amount": 83,
-    "initialPrice": 0.3352,
-    "initialTotal": 27.8216,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 28,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "SAND",
-        "number": 83,
-        "price": 0.3352,
-        "total": 27.8216,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 28
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 83,
+        "initialPrice": 0.3352,
+        "initialTotal": 27.8216,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 28,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "SAND",
+                "number": 83,
+                "price": 0.3352,
+                "total": 27.8216,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 28
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.172189335625603,
+        "actualTotal": 14.291714856925,
+        "profits": -13.529885143075,
+        "profitsPercent": -48.6308664601423
     },
-    "Tasks": [],
-    "actualPrice": 0.183760617229575,
-    "actualTotal": 15.2521312300547,
-    "profits": -12.5694687699453,
-    "profitsPercent": -45.1788134756637
-  },
-  {
-    "id": 29,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "POL",
-    "amount": 574.33,
-    "initialPrice": 0.6087,
-    "initialTotal": 349.594671,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 29,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "POL",
-        "number": 574.33,
-        "price": 0.6087,
-        "total": 349.594671,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 29
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 574.33,
+        "initialPrice": 0.6087,
+        "initialTotal": 349.594671,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 29,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "POL",
+                "number": 574.33,
+                "price": 0.6087,
+                "total": 349.594671,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 29
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.143627809441243,
+        "actualTotal": 82.4897597963893,
+        "profits": -267.104911203611,
+        "profitsPercent": -76.4041712762866
     },
-    "Tasks": [],
-    "actualPrice": 0.156138237676619,
-    "actualTotal": 89.6748740448123,
-    "profits": -259.919796955188,
-    "profitsPercent": -74.3489013181175
-  },
-  {
-    "id": 30,
-    "date": "2024-07-18T03:00:00.000Z",
-    "ticker": "TAO",
-    "amount": 1.132,
-    "initialPrice": 310.247402826855,
-    "initialTotal": 351.20006,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 30,
         "date": "2024-07-18T03:00:00.000Z",
         "ticker": "TAO",
-        "number": 0.7706,
-        "price": 327.2,
-        "total": 252.14032,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 30
-      },
-      {
-        "id": 72,
-        "date": "2025-03-27T03:00:00.000Z",
-        "ticker": "TAO",
-        "number": 0.3614,
-        "price": 274.1,
-        "total": 99.05974,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 30
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1.132,
+        "initialPrice": 310.247402826855,
+        "initialTotal": 351.20006,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 30,
+                "date": "2024-07-18T03:00:00.000Z",
+                "ticker": "TAO",
+                "number": 0.7706,
+                "price": 327.2,
+                "total": 252.14032,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 30
+            },
+            {
+                "id": 72,
+                "date": "2025-03-27T03:00:00.000Z",
+                "ticker": "TAO",
+                "number": 0.3614,
+                "price": 274.1,
+                "total": 99.05974,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 30
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 313.050448928131,
+        "actualTotal": 354.373108186644,
+        "profits": 3.17304818664366,
+        "profitsPercent": 0.90348737031641
     },
-    "Tasks": [],
-    "actualPrice": 337.312224015732,
-    "actualTotal": 381.837437585808,
-    "profits": 30.6373775858084,
-    "profitsPercent": 8.72362538486138
-  },
-  {
-    "id": 31,
-    "date": "2024-05-30T03:00:00.000Z",
-    "ticker": "FET",
-    "amount": 979.3,
-    "initialPrice": 0.768389768201777,
-    "initialTotal": 752.4841,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 31,
         "date": "2024-05-30T03:00:00.000Z",
         "ticker": "FET",
-        "number": 310.5,
-        "price": 1.1354,
-        "total": 352.5417,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 31
-      },
-      {
-        "id": 64,
-        "date": "2025-03-08T03:00:00.000Z",
-        "ticker": "FET",
-        "number": 668.8,
-        "price": 0.598,
-        "total": 399.9424,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 31
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 979.3,
+        "initialPrice": 0.768389768201777,
+        "initialTotal": 752.4841,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 31,
+                "date": "2024-05-30T03:00:00.000Z",
+                "ticker": "FET",
+                "number": 310.5,
+                "price": 1.1354,
+                "total": 352.5417,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 31
+            },
+            {
+                "id": 64,
+                "date": "2025-03-08T03:00:00.000Z",
+                "ticker": "FET",
+                "number": 668.8,
+                "price": 0.598,
+                "total": 399.9424,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 31
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.26620751724783,
+        "actualTotal": 260.6970216408,
+        "profits": -491.7870783592,
+        "profitsPercent": -65.3551454920044
     },
-    "Tasks": [],
-    "actualPrice": 0.289858301551004,
-    "actualTotal": 283.858234708898,
-    "profits": -468.625865291101,
-    "profitsPercent": -62.2771783870385
-  },
-  {
-    "id": 32,
-    "date": "2024-03-16T03:00:00.000Z",
-    "ticker": "SOL",
-    "amount": 9.173,
-    "initialPrice": 171.211465169519,
-    "initialTotal": 1570.52277,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 32,
         "date": "2024-03-16T03:00:00.000Z",
         "ticker": "SOL",
-        "number": 3.245,
-        "price": 181.42,
-        "total": 588.7079,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 32
-      },
-      {
-        "id": 54,
-        "date": "2025-02-17T03:00:00.000Z",
-        "ticker": "SOL",
-        "number": 1.671,
-        "price": 179.45,
-        "total": 299.86095,
-        "buy": true,
-        "exchange": "Bi",
-        "comment": "baja",
-        "HoldingId": 32
-      },
-      {
-        "id": 55,
-        "date": "2025-02-17T03:00:00.000Z",
-        "ticker": "SOL",
-        "number": 0.615,
-        "price": 179.44,
-        "total": 110.3556,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "baja",
-        "HoldingId": 32
-      },
-      {
-        "id": 59,
-        "date": "2025-02-26T03:00:00.000Z",
-        "ticker": "SOL",
-        "number": 0.58,
-        "price": 139.98,
-        "total": 81.1884,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "",
-        "HoldingId": 32
-      },
-      {
-        "id": 80,
-        "date": "2025-06-12T03:00:00.000Z",
-        "ticker": "SOL",
-        "number": 3.062,
-        "price": 160.16,
-        "total": 490.40992,
-        "buy": true,
-        "exchange": "b",
-        "comment": "",
-        "HoldingId": 32
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 9.173,
+        "initialPrice": 171.211465169519,
+        "initialTotal": 1570.52277,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 32,
+                "date": "2024-03-16T03:00:00.000Z",
+                "ticker": "SOL",
+                "number": 3.245,
+                "price": 181.42,
+                "total": 588.7079,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 32
+            },
+            {
+                "id": 54,
+                "date": "2025-02-17T03:00:00.000Z",
+                "ticker": "SOL",
+                "number": 1.671,
+                "price": 179.45,
+                "total": 299.86095,
+                "buy": true,
+                "exchange": "Bi",
+                "comment": "baja",
+                "HoldingId": 32
+            },
+            {
+                "id": 55,
+                "date": "2025-02-17T03:00:00.000Z",
+                "ticker": "SOL",
+                "number": 0.615,
+                "price": 179.44,
+                "total": 110.3556,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "baja",
+                "HoldingId": 32
+            },
+            {
+                "id": 59,
+                "date": "2025-02-26T03:00:00.000Z",
+                "ticker": "SOL",
+                "number": 0.58,
+                "price": 139.98,
+                "total": 81.1884,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "",
+                "HoldingId": 32
+            },
+            {
+                "id": 80,
+                "date": "2025-06-12T03:00:00.000Z",
+                "ticker": "SOL",
+                "number": 3.062,
+                "price": 160.16,
+                "total": 490.40992,
+                "buy": true,
+                "exchange": "b",
+                "comment": "",
+                "HoldingId": 32
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 131.277260051772,
+        "actualTotal": 1204.2063064549,
+        "profits": -366.316463545099,
+        "profitsPercent": -23.3244923628263
     },
-    "Tasks": [],
-    "actualPrice": 142.982296698501,
-    "actualTotal": 1311.57660761535,
-    "profits": -258.94616238465,
-    "profitsPercent": -16.4878960898255
-  },
-  {
-    "id": 33,
-    "date": "2024-06-02T03:00:00.000Z",
-    "ticker": "TON",
-    "amount": 129.05,
-    "initialPrice": 6.215,
-    "initialTotal": 802.04575,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 33,
         "date": "2024-06-02T03:00:00.000Z",
         "ticker": "TON",
-        "number": 129.05,
-        "price": 6.215,
-        "total": 802.04575,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 33
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 129.05,
+        "initialPrice": 6.215,
+        "initialTotal": 802.04575,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 33,
+                "date": "2024-06-02T03:00:00.000Z",
+                "ticker": "TON",
+                "number": 129.05,
+                "price": 6.215,
+                "total": 802.04575,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 33
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 1.75428835904121,
+        "actualTotal": 226.390912734268,
+        "profits": -575.654837265732,
+        "profitsPercent": -71.7733168295863
     },
-    "Tasks": [],
-    "actualPrice": 1.8476247857506,
-    "actualTotal": 238.435978601115,
-    "profits": -563.609771398885,
-    "profitsPercent": -70.2715239621786
-  },
-  {
-    "id": 34,
-    "date": "2024-03-23T03:00:00.000Z",
-    "ticker": "BNB",
-    "amount": 1.001,
-    "initialPrice": 569.4897,
-    "initialTotal": 570.0591897,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 34,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "BNB",
-        "number": 1.001,
-        "price": 569.4897,
-        "total": 570.0591897,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 34
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1.001,
+        "initialPrice": 569.4897,
+        "initialTotal": 570.0591897,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 34,
+                "date": "2024-03-23T03:00:00.000Z",
+                "ticker": "BNB",
+                "number": 1.001,
+                "price": 569.4897,
+                "total": 570.0591897,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 34
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 906.750989110994,
+        "actualTotal": 907.657740100105,
+        "profits": 337.598550400105,
+        "profitsPercent": 59.2216661883427
     },
-    "Tasks": [],
-    "actualPrice": 936.903514439636,
-    "actualTotal": 937.840417954076,
-    "profits": 367.781228254076,
-    "profitsPercent": 64.5163230238644
-  },
-  {
-    "id": 35,
-    "date": "2024-06-02T03:00:00.000Z",
-    "ticker": "LINK",
-    "amount": 32.8099,
-    "initialPrice": 15.4679261879452,
-    "initialTotal": 507.501111433863,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 35,
         "date": "2024-06-02T03:00:00.000Z",
         "ticker": "LINK",
-        "number": 56.1499,
-        "price": 16.0466,
-        "total": 901.01498534,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 35
-      },
-      {
-        "id": 79,
-        "date": "2025-06-12T03:00:00.000Z",
-        "ticker": "LINK",
-        "number": 32.56,
-        "price": 14.47,
-        "total": 471.1432,
-        "buy": true,
-        "exchange": "b",
-        "comment": "",
-        "HoldingId": 35
-      },
-      {
-        "id": 96,
-        "date": "2025-08-14T03:00:00.000Z",
-        "ticker": "LINK",
-        "number": 55.9,
-        "price": 22.43,
-        "total": 1253.837,
-        "buy": false,
-        "exchange": "b",
-        "comment": "parciales",
-        "HoldingId": 35
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 32.8099,
+        "initialPrice": 15.4679261879452,
+        "initialTotal": 507.501111433863,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 35,
+                "date": "2024-06-02T03:00:00.000Z",
+                "ticker": "LINK",
+                "number": 56.1499,
+                "price": 16.0466,
+                "total": 901.01498534,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 35
+            },
+            {
+                "id": 79,
+                "date": "2025-06-12T03:00:00.000Z",
+                "ticker": "LINK",
+                "number": 32.56,
+                "price": 14.47,
+                "total": 471.1432,
+                "buy": true,
+                "exchange": "b",
+                "comment": "",
+                "HoldingId": 35
+            },
+            {
+                "id": 96,
+                "date": "2025-08-14T03:00:00.000Z",
+                "ticker": "LINK",
+                "number": 55.9,
+                "price": 22.43,
+                "total": 1253.837,
+                "buy": false,
+                "exchange": "b",
+                "comment": "parciales",
+                "HoldingId": 35
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 13.2672168541805,
+        "actualTotal": 435.296058263977,
+        "profits": -72.2050531698869,
+        "profitsPercent": -14.2275655251046
     },
-    "Tasks": [],
-    "actualPrice": 14.1987078054237,
-    "actualTotal": 465.858183225171,
-    "profits": -41.6429282086929,
-    "profitsPercent": -8.20548512515322
-  },
-  {
-    "id": 36,
-    "date": "2024-03-21T03:00:00.000Z",
-    "ticker": "BTC",
-    "amount": 0.01761257,
-    "initialPrice": 84656.9136839109,
-    "initialTotal": 1491.02581824184,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 36,
         "date": "2024-03-21T03:00:00.000Z",
         "ticker": "BTC",
-        "number": 0.0230866,
-        "price": 67606.897,
-        "total": 1560.8133882802,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 36
-      },
-      {
-        "id": 89,
-        "date": "2025-06-21T03:00:00.000Z",
-        "ticker": "BTC",
-        "number": 0.00975081,
-        "price": 101530,
-        "total": 989.9997393,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "",
-        "HoldingId": 36
-      },
-      {
-        "id": 90,
-        "date": "2025-06-22T03:00:00.000Z",
-        "ticker": "BTC",
-        "number": 0.01483516,
-        "price": 100100,
-        "total": 1484.999516,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "",
-        "HoldingId": 36
-      },
-      {
-        "id": 91,
-        "date": "2025-07-13T03:00:00.000Z",
-        "ticker": "BTC",
-        "number": 0.02,
-        "price": 118304.01,
-        "total": 2366.0802,
-        "buy": false,
-        "exchange": "ne",
-        "comment": "50%",
-        "HoldingId": 36
-      },
-      {
-        "id": 92,
-        "date": "2025-07-16T03:00:00.000Z",
-        "ticker": "BTC",
-        "number": 0.01006,
-        "price": 119979.99,
-        "total": 1206.9986994,
-        "buy": false,
-        "exchange": "Binance",
-        "comment": "Venta",
-        "HoldingId": 36
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 0.01761257,
+        "initialPrice": 84656.9136839109,
+        "initialTotal": 1491.02581824184,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 36,
+                "date": "2024-03-21T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.0230866,
+                "price": 67606.897,
+                "total": 1560.8133882802,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 36
+            },
+            {
+                "id": 89,
+                "date": "2025-06-21T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.00975081,
+                "price": 101530,
+                "total": 989.9997393,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 36
+            },
+            {
+                "id": 90,
+                "date": "2025-06-22T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.01483516,
+                "price": 100100,
+                "total": 1484.999516,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 36
+            },
+            {
+                "id": 91,
+                "date": "2025-07-13T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.02,
+                "price": 118304.01,
+                "total": 2366.0802,
+                "buy": false,
+                "exchange": "ne",
+                "comment": "50%",
+                "HoldingId": 36
+            },
+            {
+                "id": 92,
+                "date": "2025-07-16T03:00:00.000Z",
+                "ticker": "BTC",
+                "number": 0.01006,
+                "price": 119979.99,
+                "total": 1206.9986994,
+                "buy": false,
+                "exchange": "Binance",
+                "comment": "Venta",
+                "HoldingId": 36
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 92126.9441882255,
+        "actualTotal": 1622.59225340121,
+        "profits": 131.566435159375,
+        "profitsPercent": 8.82388712185504
     },
-    "Tasks": [],
-    "actualPrice": 95919.5297505109,
-    "actualTotal": 1689.38943209796,
-    "profits": 198.363613856117,
-    "profitsPercent": 13.3038349456631
-  },
-  {
-    "id": 37,
-    "date": "2024-06-04T03:00:00.000Z",
-    "ticker": "ONDO",
-    "amount": 1716.57,
-    "initialPrice": 1.204544,
-    "initialTotal": 2067.68409408,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 37,
         "date": "2024-06-04T03:00:00.000Z",
         "ticker": "ONDO",
-        "number": 1716.57,
-        "price": 1.204544,
-        "total": 2067.68409408,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 37
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 1716.57,
+        "initialPrice": 1.204544,
+        "initialTotal": 2067.68409408,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 37,
+                "date": "2024-06-04T03:00:00.000Z",
+                "ticker": "ONDO",
+                "number": 1716.57,
+                "price": 1.204544,
+                "total": 2067.68409408,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 37
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.52794264430691,
+        "actualTotal": 906.250504937912,
+        "profits": -1161.43358914209,
+        "profitsPercent": -56.1707464146673
     },
-    "Tasks": [],
-    "actualPrice": 0.585569594046561,
-    "actualTotal": 1005.17119805251,
-    "profits": -1062.51289602749,
-    "profitsPercent": -51.3866165082752
-  },
-  {
-    "id": 38,
-    "date": "2024-03-16T03:00:00.000Z",
-    "ticker": "ETH",
-    "amount": 18.41845,
-    "initialPrice": 3644.0537478485,
-    "initialTotal": 67117.8217520603,
-    "UserId": 1,
-    "Operations": [
-      {
+    {
         "id": 38,
         "date": "2024-03-16T03:00:00.000Z",
         "ticker": "ETH",
-        "number": 1.320777,
-        "price": 3131.8898,
-        "total": 4136.5280143746,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 50,
-        "date": "2025-02-02T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.3874,
-        "price": 3097.21,
-        "total": 1199.859154,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "dip",
-        "HoldingId": 38
-      },
-      {
-        "id": 51,
-        "date": "2025-02-02T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.16,
-        "price": 3093.55,
-        "total": 494.968,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "dip",
-        "HoldingId": 38
-      },
-      {
-        "id": 52,
-        "date": "2025-02-02T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.2523,
-        "price": 2619.68,
-        "total": 660.945264,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "dip",
-        "HoldingId": 38
-      },
-      {
-        "id": 53,
-        "date": "2025-02-02T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.054,
-        "price": 2681.19,
-        "total": 144.78426,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "dip",
-        "HoldingId": 38
-      },
-      {
-        "id": 56,
-        "date": "2025-02-24T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.1223,
-        "price": 2534.28,
-        "total": 309.942444,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "2500",
-        "HoldingId": 38
-      },
-      {
-        "id": 57,
-        "date": "2025-02-24T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.1335,
-        "price": 2545.46,
-        "total": 339.81891,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "2500",
-        "HoldingId": 38
-      },
-      {
-        "id": 58,
-        "date": "2025-02-25T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.0966,
-        "price": 2390.21,
-        "total": 230.894286,
-        "buy": true,
-        "exchange": "bi",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 60,
-        "date": "2025-03-07T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.1485,
-        "price": 2185.05,
-        "total": 324.479925,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 61,
-        "date": "2025-03-07T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.2886,
-        "price": 2234.17,
-        "total": 644.781462,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 66,
-        "date": "2025-03-10T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.2365,
-        "price": 2118.34,
-        "total": 500.98741,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 67,
-        "date": "2025-03-10T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.237,
-        "price": 2023.8,
-        "total": 479.6406,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 68,
-        "date": "2025-03-11T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.0743,
-        "price": 1945.23,
-        "total": 144.530589,
-        "buy": true,
-        "exchange": "",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 74,
-        "date": "2025-04-06T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.22807,
-        "price": 1656.75,
-        "total": 377.8549725,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 75,
-        "date": "2025-04-06T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.4824,
-        "price": 1675.8,
-        "total": 808.40592,
-        "buy": true,
-        "exchange": "b",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 76,
-        "date": "2025-04-07T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.421503,
-        "price": 1613.3,
-        "total": 680.0107899,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 77,
-        "date": "2025-04-16T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.463,
-        "price": 1590.86,
-        "total": 736.56818,
-        "buy": true,
-        "exchange": "binance",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 78,
-        "date": "2025-04-19T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2.5021,
-        "price": 1616.01,
-        "total": 4043.418621,
-        "buy": true,
-        "exchange": "binance",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 93,
-        "date": "2025-08-05T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 3605.5,
-        "total": 7211,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target 3570",
-        "HoldingId": 38
-      },
-      {
-        "id": 94,
-        "date": "2025-08-11T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 4247,
-        "total": 8494,
-        "buy": false,
-        "exchange": "ne",
-        "comment": "target 4247",
-        "HoldingId": 38
-      },
-      {
-        "id": 95,
-        "date": "2025-08-13T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 4704,
-        "total": 9408,
-        "buy": false,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 97,
-        "date": "2025-08-15T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 1,
-        "price": 4348,
-        "total": 4348,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 98,
-        "date": "2025-08-19T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 1,
-        "price": 4171.3,
-        "total": 4171.3,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 99,
-        "date": "2025-09-01T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 1,
-        "price": 4348,
-        "total": 4348,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 100,
-        "date": "2025-09-06T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 4292.5,
-        "total": 8585,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 101,
-        "date": "2025-09-22T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 4146.5,
-        "total": 8293,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 102,
-        "date": "2025-09-22T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 4130.9,
-        "total": 8261.8,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 103,
-        "date": "2025-09-25T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 2,
-        "price": 4070.3,
-        "total": 8140.6,
-        "buy": true,
-        "exchange": "ne",
-        "comment": "target",
-        "HoldingId": 38
-      },
-      {
-        "id": 104,
-        "date": "2025-09-25T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.288,
-        "price": 3926.01,
-        "total": 1130.69088,
-        "buy": true,
-        "exchange": "binance",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 105,
-        "date": "2025-09-25T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 0.3716,
-        "price": 3834.58,
-        "total": 1424.929928,
-        "buy": true,
-        "exchange": "blo",
-        "comment": "",
-        "HoldingId": 38
-      },
-      {
-        "id": 106,
-        "date": "2025-09-24T03:00:00.000Z",
-        "ticker": "ETH",
-        "number": 1.15,
-        "price": 4100,
-        "total": 4715,
-        "buy": true,
-        "exchange": "olvido",
-        "comment": "olvido",
-        "HoldingId": 38
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 18.41845,
+        "initialPrice": 3644.0537478485,
+        "initialTotal": 67117.8217520603,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 38,
+                "date": "2024-03-16T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 1.320777,
+                "price": 3131.8898,
+                "total": 4136.5280143746,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 50,
+                "date": "2025-02-02T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.3874,
+                "price": 3097.21,
+                "total": 1199.859154,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "dip",
+                "HoldingId": 38
+            },
+            {
+                "id": 51,
+                "date": "2025-02-02T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.16,
+                "price": 3093.55,
+                "total": 494.968,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "dip",
+                "HoldingId": 38
+            },
+            {
+                "id": 52,
+                "date": "2025-02-02T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.2523,
+                "price": 2619.68,
+                "total": 660.945264,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "dip",
+                "HoldingId": 38
+            },
+            {
+                "id": 53,
+                "date": "2025-02-02T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.054,
+                "price": 2681.19,
+                "total": 144.78426,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "dip",
+                "HoldingId": 38
+            },
+            {
+                "id": 56,
+                "date": "2025-02-24T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.1223,
+                "price": 2534.28,
+                "total": 309.942444,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "2500",
+                "HoldingId": 38
+            },
+            {
+                "id": 57,
+                "date": "2025-02-24T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.1335,
+                "price": 2545.46,
+                "total": 339.81891,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "2500",
+                "HoldingId": 38
+            },
+            {
+                "id": 58,
+                "date": "2025-02-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.0966,
+                "price": 2390.21,
+                "total": 230.894286,
+                "buy": true,
+                "exchange": "bi",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 60,
+                "date": "2025-03-07T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.1485,
+                "price": 2185.05,
+                "total": 324.479925,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 61,
+                "date": "2025-03-07T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.2886,
+                "price": 2234.17,
+                "total": 644.781462,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 66,
+                "date": "2025-03-10T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.2365,
+                "price": 2118.34,
+                "total": 500.98741,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 67,
+                "date": "2025-03-10T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.237,
+                "price": 2023.8,
+                "total": 479.6406,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 68,
+                "date": "2025-03-11T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.0743,
+                "price": 1945.23,
+                "total": 144.530589,
+                "buy": true,
+                "exchange": "",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 74,
+                "date": "2025-04-06T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.22807,
+                "price": 1656.75,
+                "total": 377.8549725,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 75,
+                "date": "2025-04-06T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.4824,
+                "price": 1675.8,
+                "total": 808.40592,
+                "buy": true,
+                "exchange": "b",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 76,
+                "date": "2025-04-07T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.421503,
+                "price": 1613.3,
+                "total": 680.0107899,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 77,
+                "date": "2025-04-16T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.463,
+                "price": 1590.86,
+                "total": 736.56818,
+                "buy": true,
+                "exchange": "binance",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 78,
+                "date": "2025-04-19T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2.5021,
+                "price": 1616.01,
+                "total": 4043.418621,
+                "buy": true,
+                "exchange": "binance",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 93,
+                "date": "2025-08-05T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 3605.5,
+                "total": 7211,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target 3570",
+                "HoldingId": 38
+            },
+            {
+                "id": 94,
+                "date": "2025-08-11T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4247,
+                "total": 8494,
+                "buy": false,
+                "exchange": "ne",
+                "comment": "target 4247",
+                "HoldingId": 38
+            },
+            {
+                "id": 95,
+                "date": "2025-08-13T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4704,
+                "total": 9408,
+                "buy": false,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 97,
+                "date": "2025-08-15T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 1,
+                "price": 4348,
+                "total": 4348,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 98,
+                "date": "2025-08-19T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 1,
+                "price": 4171.3,
+                "total": 4171.3,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 99,
+                "date": "2025-09-01T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 1,
+                "price": 4348,
+                "total": 4348,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 100,
+                "date": "2025-09-06T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4292.5,
+                "total": 8585,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 101,
+                "date": "2025-09-22T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4146.5,
+                "total": 8293,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 102,
+                "date": "2025-09-22T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4130.9,
+                "total": 8261.8,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 103,
+                "date": "2025-09-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 2,
+                "price": 4070.3,
+                "total": 8140.6,
+                "buy": true,
+                "exchange": "ne",
+                "comment": "target",
+                "HoldingId": 38
+            },
+            {
+                "id": 104,
+                "date": "2025-09-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.288,
+                "price": 3926.01,
+                "total": 1130.69088,
+                "buy": true,
+                "exchange": "binance",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 105,
+                "date": "2025-09-25T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 0.3716,
+                "price": 3834.58,
+                "total": 1424.929928,
+                "buy": true,
+                "exchange": "blo",
+                "comment": "",
+                "HoldingId": 38
+            },
+            {
+                "id": 106,
+                "date": "2025-09-24T03:00:00.000Z",
+                "ticker": "ETH",
+                "number": 1.15,
+                "price": 4100,
+                "total": 4715,
+                "buy": true,
+                "exchange": "olvido",
+                "comment": "olvido",
+                "HoldingId": 38
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 3017.79511684805,
+        "actualTotal": 55583.10846991,
+        "profits": -11534.7132821503,
+        "profitsPercent": -17.1857682222773
     },
-    "Tasks": [],
-    "actualPrice": 3197.1644953535,
-    "actualTotal": 58886.8143994437,
-    "profits": -8231.00735261653,
-    "profitsPercent": -12.2635197891592
-  },
-  {
-    "id": 39,
-    "date": "2025-03-08T03:00:00.000Z",
-    "ticker": "JUP",
-    "amount": 539.3,
-    "initialPrice": 0.5562,
-    "initialTotal": 299.95866,
-    "UserId": 1,
-    "Operations": [
-      {
-        "id": 62,
+    {
+        "id": 39,
         "date": "2025-03-08T03:00:00.000Z",
         "ticker": "JUP",
-        "number": 539.3,
-        "price": 0.5562,
-        "total": 299.95866,
-        "buy": true,
-        "exchange": "",
-        "comment": "1ra compra de jup",
-        "HoldingId": 39
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 539.3,
+        "initialPrice": 0.5562,
+        "initialTotal": 299.95866,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 62,
+                "date": "2025-03-08T03:00:00.000Z",
+                "ticker": "JUP",
+                "number": 539.3,
+                "price": 0.5562,
+                "total": 299.95866,
+                "buy": true,
+                "exchange": "",
+                "comment": "1ra compra de jup",
+                "HoldingId": 39
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.262156538994189,
+        "actualTotal": 141.381021479566,
+        "profits": -158.577638520434,
+        "profitsPercent": -52.8664978435475
     },
-    "Tasks": [],
-    "actualPrice": 0.288498458917547,
-    "actualTotal": 155.587218894233,
-    "profits": -144.371441105767,
-    "profitsPercent": -48.1304460773918
-  },
-  {
-    "id": 40,
-    "date": "2025-03-08T03:00:00.000Z",
-    "ticker": "AAVE",
-    "amount": 0.571,
-    "initialPrice": 196.71,
-    "initialTotal": 112.32141,
-    "UserId": 1,
-    "Operations": [
-      {
-        "id": 65,
+    {
+        "id": 40,
         "date": "2025-03-08T03:00:00.000Z",
         "ticker": "AAVE",
-        "number": 0.571,
-        "price": 196.71,
-        "total": 112.32141,
-        "buy": true,
-        "exchange": "",
-        "comment": "1ra compra",
-        "HoldingId": 40
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 0.571,
+        "initialPrice": 196.71,
+        "initialTotal": 112.32141,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 65,
+                "date": "2025-03-08T03:00:00.000Z",
+                "ticker": "AAVE",
+                "number": 0.571,
+                "price": 196.71,
+                "total": 112.32141,
+                "buy": true,
+                "exchange": "",
+                "comment": "1ra compra",
+                "HoldingId": 40
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 168.136050343044,
+        "actualTotal": 96.0056847458783,
+        "profits": -16.3157252541217,
+        "profitsPercent": -14.5259263163824
     },
-    "Tasks": [],
-    "actualPrice": 180.728673798014,
-    "actualTotal": 103.196072738666,
-    "profits": -9.12533726133411,
-    "profitsPercent": -8.12430796705108
-  },
-  {
-    "id": 41,
-    "date": "2025-03-21T03:00:00.000Z",
-    "ticker": "HYPE",
-    "amount": 6.13,
-    "initialPrice": 15.566,
-    "initialTotal": 95.41958,
-    "UserId": 1,
-    "Operations": [
-      {
-        "id": 70,
+    {
+        "id": 41,
         "date": "2025-03-21T03:00:00.000Z",
         "ticker": "HYPE",
-        "number": 6.13,
-        "price": 15.566,
-        "total": 95.41958,
-        "buy": true,
-        "exchange": "ku",
-        "comment": "",
-        "HoldingId": 41
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
+        "amount": 6.13,
+        "initialPrice": 15.566,
+        "initialTotal": 95.41958,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 70,
+                "date": "2025-03-21T03:00:00.000Z",
+                "ticker": "HYPE",
+                "number": 6.13,
+                "price": 15.566,
+                "total": 95.41958,
+                "buy": true,
+                "exchange": "ku",
+                "comment": "",
+                "HoldingId": 41
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 38.2467149541301,
+        "actualTotal": 234.452362668817,
+        "profits": 139.032782668817,
+        "profitsPercent": 145.706764448992
     },
-    "Tasks": [],
-    "actualPrice": 38.7314807548019,
-    "actualTotal": 237.423977026935,
-    "profits": 142.004397026935,
-    "profitsPercent": 148.821025021212
-  },
-  {
-    "id": 42,
-    "date": "2025-04-01T03:00:00.000Z",
-    "ticker": "S",
-    "amount": 239,
-    "initialPrice": 0.4361,
-    "initialTotal": 104.2279,
-    "UserId": 1,
-    "Operations": [
-      {
-        "id": 73,
+    {
+        "id": 42,
         "date": "2025-04-01T03:00:00.000Z",
         "ticker": "S",
-        "number": 239,
-        "price": 0.4361,
-        "total": 104.2279,
-        "buy": true,
-        "exchange": "",
-        "comment": "Cambio de token",
-        "HoldingId": 42
-      }
-    ],
-    "User": {
-      "id": 1,
-      "name": "Pablo Roberto Singh",
-      "email": "pablo.rm.singh@gmail.com"
-    },
-    "Tasks": [],
-    "actualPrice": 0.134351218149369,
-    "actualTotal": 32.1099411376991,
-    "profits": -72.1179588623009,
-    "profitsPercent": -69.1925663496059
-  }
+        "amount": 239,
+        "initialPrice": 0.4361,
+        "initialTotal": 104.2279,
+        "UserId": 1,
+        "Operations": [
+            {
+                "id": 73,
+                "date": "2025-04-01T03:00:00.000Z",
+                "ticker": "S",
+                "number": 239,
+                "price": 0.4361,
+                "total": 104.2279,
+                "buy": true,
+                "exchange": "",
+                "comment": "Cambio de token",
+                "HoldingId": 42
+            }
+        ],
+        "User": {
+            "id": 1,
+            "name": "Pablo Roberto Singh",
+            "email": "pablo.rm.singh@gmail.com"
+        },
+        "Tasks": [],
+        "actualPrice": 0.11855999048488,
+        "actualTotal": 28.3358377258863,
+        "profits": -75.8920622741137,
+        "profitsPercent": -72.8135770500161
+    }
 ]
