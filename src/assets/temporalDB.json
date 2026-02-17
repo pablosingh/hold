@@ -27,17 +27,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.03517952101612967,
-        "actualTotal": 0.03447593059580708,
-        "profits": -0.9455240694041929,
-        "profitsPercent": -96.48204789838704
+        "actualPrice": 0.0341215803574183,
+        "actualTotal": 0.0334391487502699,
+        "profits": -0.94656085124973,
+        "profitsPercent": -96.5878419642582
     },
     {
         "id": 2,
         "date": "2025-01-02T03:00:00.000Z",
         "ticker": "CSIX",
-        "amount": 124563.54800000001,
-        "initialPrice": 0.006558984072627731,
+        "amount": 124563.548,
+        "initialPrice": 0.00655898407262773,
         "initialTotal": 817.010327362,
         "UserId": 1,
         "Operations": [
@@ -84,17 +84,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0004656875487610464,
-        "actualTotal": 58.00769333309895,
-        "profits": -759.0026340289011,
-        "profitsPercent": -92.90000488483459
+        "actualPrice": 0.000453757364124225,
+        "actualTotal": 56.5216272064414,
+        "profits": -760.488700155559,
+        "profitsPercent": -93.0818956243869
     },
     {
         "id": 3,
         "date": "2024-12-31T03:00:00.000Z",
         "ticker": "VIRTUAL",
         "amount": 1359.45,
-        "initialPrice": 1.3809668010592517,
+        "initialPrice": 1.38096680105925,
         "initialTotal": 1877.3553177,
         "UserId": 1,
         "Operations": [
@@ -140,7 +140,7 @@
                 "ticker": "VIRTUAL",
                 "number": 925.75,
                 "price": 0.809,
-                "total": 748.9317500000001,
+                "total": 748.93175,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -153,18 +153,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.6593184965122252,
-        "actualTotal": 896.3105300835446,
-        "profits": -981.0447876164553,
-        "profitsPercent": -52.256745346339684
+        "actualPrice": 0.645073359743204,
+        "actualTotal": 876.944978902899,
+        "profits": -1000.4103387971,
+        "profitsPercent": -53.2882789616369
     },
     {
         "id": 4,
         "date": "2024-12-27T03:00:00.000Z",
         "ticker": "NEAR",
-        "amount": 314.36379999999997,
-        "initialPrice": 4.394898304575781,
-        "initialTotal": 1381.5969316399999,
+        "amount": 314.3638,
+        "initialPrice": 4.39489830457578,
+        "initialTotal": 1381.59693164,
         "UserId": 1,
         "Operations": [
             {
@@ -210,10 +210,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1.0490791055042992,
-        "actualTotal": 329.7924941069324,
-        "profits": -1051.8044375330674,
-        "profitsPercent": -76.12961591370515
+        "actualPrice": 1.03961712187747,
+        "actualTotal": 326.817988978464,
+        "profits": -1054.77894266154,
+        "profitsPercent": -76.3449106252342
     },
     {
         "id": 5,
@@ -243,10 +243,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.059533263182955695,
-        "actualTotal": 4.812597555794319,
-        "profits": -294.5819821242057,
-        "profitsPercent": -98.392556885653
+        "actualPrice": 0.0605010318045148,
+        "actualTotal": 4.89083080983881,
+        "profits": -294.503748870161,
+        "profitsPercent": -98.3664264012173
     },
     {
         "id": 6,
@@ -276,10 +276,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.11100619562257359,
-        "actualTotal": 68.04679791663762,
-        "profits": -71.80302208336238,
-        "profitsPercent": -51.34294923179907
+        "actualPrice": 0.104048818945165,
+        "actualTotal": 63.7819260133859,
+        "profits": -76.0678939866141,
+        "profitsPercent": -54.3925576640814
     },
     {
         "id": 7,
@@ -287,7 +287,7 @@
         "ticker": "ENA",
         "amount": 437.0146,
         "initialPrice": 0.91598,
-        "initialTotal": 400.29663330799997,
+        "initialTotal": 400.296633308,
         "UserId": 1,
         "Operations": [
             {
@@ -296,7 +296,7 @@
                 "ticker": "ENA",
                 "number": 437.0146,
                 "price": 0.91598,
-                "total": 400.29663330799997,
+                "total": 400.296633308,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -309,10 +309,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.1217387767298866,
-        "actualTotal": 53.2016228171007,
-        "profits": -347.09501049089926,
-        "profitsPercent": -86.70945034499806
+        "actualPrice": 0.121102582010636,
+        "actualTotal": 52.9235964363454,
+        "profits": -347.373036871655,
+        "profitsPercent": -86.7789054334553
     },
     {
         "id": 8,
@@ -342,17 +342,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.623589430765081,
-        "actualTotal": 16.026248370662582,
-        "profits": -110.35093162933741,
-        "profitsPercent": -87.31871658264365
+        "actualPrice": 0.670503682485308,
+        "actualTotal": 17.2319446398724,
+        "profits": -109.145235360128,
+        "profitsPercent": -86.3646707104301
     },
     {
         "id": 9,
         "date": "2024-12-19T03:00:00.000Z",
         "ticker": "KLV",
-        "amount": 47127.973000000005,
-        "initialPrice": 0.003030520223972289,
+        "amount": 47127.973,
+        "initialPrice": 0.00303052022397229,
         "initialTotal": 142.82227529132,
         "UserId": 1,
         "Operations": [
@@ -374,7 +374,7 @@
                 "ticker": "KLV",
                 "number": 38034.9576,
                 "price": 0.003007,
-                "total": 114.37111750320001,
+                "total": 114.3711175032,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -398,7 +398,7 @@
                 "ticker": "KLV",
                 "number": 5056.7038,
                 "price": 0.0029999,
-                "total": 15.169605729619999,
+                "total": 15.16960572962,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -411,18 +411,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.001240700481048616,
-        "actualTotal": 58.471698771946194,
-        "profits": -84.35057651937382,
-        "profitsPercent": -59.05981846831718
+        "actualPrice": 0.00119958757891262,
+        "actualTotal": 56.5341310301292,
+        "profits": -86.2881442611908,
+        "profitsPercent": -60.4164470039324
     },
     {
         "id": 10,
         "date": "2024-12-19T03:00:00.000Z",
         "ticker": "VRA",
         "amount": 149368,
-        "initialPrice": 0.0017859630108189174,
-        "initialTotal": 266.76572300000004,
+        "initialPrice": 0.00178596301081892,
+        "initialTotal": 266.765723,
         "UserId": 1,
         "Operations": [
             {
@@ -455,7 +455,7 @@
                 "ticker": "VRA",
                 "number": 110815,
                 "price": 0.00128,
-                "total": 141.84320000000002,
+                "total": 141.8432,
                 "buy": true,
                 "exchange": "ku",
                 "comment": "",
@@ -468,18 +468,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.000022616014554324768,
-        "actualTotal": 3.378108861950382,
-        "profits": -263.3876141380496,
-        "profitsPercent": -98.73367956574
+        "actualPrice": 0.000022574113552259,
+        "actualTotal": 3.37185019307388,
+        "profits": -263.393872806926,
+        "profitsPercent": -98.7360256950726
     },
     {
         "id": 11,
         "date": "2024-12-20T03:00:00.000Z",
         "ticker": "BRETT",
         "amount": 1974,
-        "initialPrice": 0.09117006484295845,
-        "initialTotal": 179.96970799999997,
+        "initialPrice": 0.0911700648429585,
+        "initialTotal": 179.969708,
         "UserId": 1,
         "Operations": [
             {
@@ -512,7 +512,7 @@
                 "ticker": "BRETT",
                 "number": 1211.8,
                 "price": 0.08252,
-                "total": 99.99773599999999,
+                "total": 99.997736,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -525,17 +525,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.007971519871788823,
-        "actualTotal": 15.735780226911137,
-        "profits": -164.23392777308882,
-        "profitsPercent": -91.25642842799348
+        "actualPrice": 0.00789027719204893,
+        "actualTotal": 15.5754071771046,
+        "profits": -164.394300822895,
+        "profitsPercent": -91.3455395631888
     },
     {
         "id": 12,
         "date": "2024-12-20T03:00:00.000Z",
         "ticker": "TEL",
         "amount": 50886,
-        "initialPrice": 0.004126063200094328,
+        "initialPrice": 0.00412606320009433,
         "initialTotal": 209.958852,
         "UserId": 1,
         "Operations": [
@@ -570,18 +570,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0027950884203725036,
-        "actualTotal": 142.23086935907523,
-        "profits": -67.72798264092478,
-        "profitsPercent": -32.2577409791347
+        "actualPrice": 0.00275272762254176,
+        "actualTotal": 140.07529780066,
+        "profits": -69.8835541993398,
+        "profitsPercent": -33.2844047934401
     },
     {
         "id": 13,
         "date": "2024-12-20T03:00:00.000Z",
         "ticker": "HMND",
         "amount": 5179.44,
-        "initialPrice": 0.03744239159059666,
-        "initialTotal": 193.93062069999996,
+        "initialPrice": 0.0374423915905967,
+        "initialTotal": 193.9306207,
         "UserId": 1,
         "Operations": [
             {
@@ -590,7 +590,7 @@
                 "ticker": "HMND",
                 "number": 919.31,
                 "price": 0.09425,
-                "total": 86.64496749999999,
+                "total": 86.6449675,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -614,7 +614,7 @@
                 "ticker": "HMND",
                 "number": 520,
                 "price": 0.02408,
-                "total": 12.521600000000001,
+                "total": 12.5216,
                 "buy": true,
                 "exchange": "ku",
                 "comment": "",
@@ -626,7 +626,7 @@
                 "ticker": "HMND",
                 "number": 3582.2,
                 "price": 0.02411,
-                "total": 86.36684199999999,
+                "total": 86.366842,
                 "buy": true,
                 "exchange": "ku",
                 "comment": "",
@@ -651,10 +651,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.0030043595445418225,
-        "actualTotal": 15.560899999381697,
-        "profits": -178.36972070061827,
-        "profitsPercent": -91.97604795817493
+        "actualPrice": 0.00302785729388428,
+        "actualTotal": 15.682605182236,
+        "profits": -178.248015517764,
+        "profitsPercent": -91.9132908843229
     },
     {
         "id": 14,
@@ -684,10 +684,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.11445193165952273,
-        "actualTotal": 4.17749550557258,
-        "profits": -25.75615449442742,
-        "profitsPercent": -86.04414929160801
+        "actualPrice": 0.113774536440391,
+        "actualTotal": 4.15277058007428,
+        "profits": -25.7808794199257,
+        "profitsPercent": -86.1267483916119
     },
     {
         "id": 15,
@@ -717,17 +717,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.00040817952507563835,
-        "actualTotal": 5.268373130151264,
-        "profits": -124.66639586984873,
-        "profitsPercent": -95.94537076511733
+        "actualPrice": 0.000397449890744252,
+        "actualTotal": 5.12988573983606,
+        "profits": -124.804883260164,
+        "profitsPercent": -96.0519530074078
     },
     {
         "id": 16,
         "date": "2024-06-06T03:00:00.000Z",
         "ticker": "CGPT",
         "amount": 1631.85,
-        "initialPrice": 0.09319196075006894,
+        "initialPrice": 0.0931919607500689,
         "initialTotal": 152.07530115,
         "UserId": 1,
         "Operations": [
@@ -762,10 +762,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.022721373484539793,
-        "actualTotal": 37.07787332074626,
-        "profits": -114.99742782925375,
-        "profitsPercent": -75.6187408209211
+        "actualPrice": 0.0228306031324116,
+        "actualTotal": 37.2561197216258,
+        "profits": -114.819181428374,
+        "profitsPercent": -75.5015315176801
     },
     {
         "id": 17,
@@ -795,10 +795,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.18927763786972068,
-        "actualTotal": 4.750868710529989,
-        "profits": -40.20574128947001,
-        "profitsPercent": -89.43232438893861
+        "actualPrice": 0.187045357730327,
+        "actualTotal": 4.69483847903122,
+        "profits": -40.2617715209688,
+        "profitsPercent": -89.5569561872409
     },
     {
         "id": 18,
@@ -828,10 +828,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1.3645980259998958,
-        "actualTotal": 15.570063476658811,
-        "profits": -60.41597252334119,
-        "profitsPercent": -79.5093094780483
+        "actualPrice": 1.35987358952899,
+        "actualTotal": 15.5161576565258,
+        "profits": -60.4698783434742,
+        "profitsPercent": -79.5802512233619
     },
     {
         "id": 19,
@@ -861,10 +861,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 2.1977308586859854,
-        "actualTotal": 26.768361858795302,
-        "profits": -63.137090141204695,
-        "profitsPercent": -70.22609723513175
+        "actualPrice": 2.27363402641598,
+        "actualTotal": 27.6928624417466,
+        "profits": -62.2125895582534,
+        "profitsPercent": -69.197794098464
     },
     {
         "id": 20,
@@ -872,7 +872,7 @@
         "ticker": "ILV",
         "amount": 1.288,
         "initialPrice": 69.81,
-        "initialTotal": 89.91528000000001,
+        "initialTotal": 89.91528,
         "UserId": 1,
         "Operations": [
             {
@@ -881,7 +881,7 @@
                 "ticker": "ILV",
                 "number": 1.288,
                 "price": 69.81,
-                "total": 89.91528000000001,
+                "total": 89.91528,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -894,10 +894,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 3.8543568694313435,
-        "actualTotal": 4.96441164782757,
-        "profits": -84.95086835217244,
-        "profitsPercent": -94.47878975872892
+        "actualPrice": 4.08248052287289,
+        "actualTotal": 5.25823491346028,
+        "profits": -84.6570450865397,
+        "profitsPercent": -94.1520118566496
     },
     {
         "id": 21,
@@ -927,17 +927,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.07503034648470701,
-        "actualTotal": 14.630917564517867,
-        "profits": -52.663582435482134,
-        "profitsPercent": -78.2583754028667
+        "actualPrice": 0.0745025082393672,
+        "actualTotal": 14.5279891066766,
+        "profits": -52.7665108933234,
+        "profitsPercent": -78.4113276617308
     },
     {
         "id": 22,
         "date": "2024-03-23T03:00:00.000Z",
         "ticker": "INJ",
-        "amount": 53.760000000000005,
-        "initialPrice": 14.098554687499998,
+        "amount": 53.76,
+        "initialPrice": 14.0985546875,
         "initialTotal": 757.9383,
         "UserId": 1,
         "Operations": [
@@ -959,7 +959,7 @@
                 "ticker": "INJ",
                 "number": 35.39,
                 "price": 11.3,
-                "total": 399.90700000000004,
+                "total": 399.907,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -972,10 +972,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 3.167037942208541,
-        "actualTotal": 170.2599597731312,
-        "profits": -587.6783402268688,
-        "profitsPercent": -77.53643538357527
+        "actualPrice": 3.1189979649565,
+        "actualTotal": 167.677330596061,
+        "profits": -590.260969403939,
+        "profitsPercent": -77.8771793698694
     },
     {
         "id": 23,
@@ -983,7 +983,7 @@
         "ticker": "KDA",
         "amount": 179.15,
         "initialPrice": 0.66758,
-        "initialTotal": 119.59695699999999,
+        "initialTotal": 119.596957,
         "UserId": 1,
         "Operations": [
             {
@@ -992,7 +992,7 @@
                 "ticker": "KDA",
                 "number": 179.15,
                 "price": 0.66758,
-                "total": 119.59695699999999,
+                "total": 119.596957,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1005,10 +1005,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.007739181299557327,
-        "actualTotal": 1.3864743298156952,
-        "profits": -118.21048267018429,
-        "profitsPercent": -98.84071103095398
+        "actualPrice": 0.00734509233906437,
+        "actualTotal": 1.31587329254338,
+        "profits": -118.281083707457,
+        "profitsPercent": -98.8997435005446
     },
     {
         "id": 25,
@@ -1038,10 +1038,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.40458849833247473,
-        "actualTotal": 16.99271692996394,
-        "profits": -67.00728307003607,
-        "profitsPercent": -79.77057508337627
+        "actualPrice": 0.393695622732909,
+        "actualTotal": 16.5352161547822,
+        "profits": -67.4647838452178,
+        "profitsPercent": -80.3152188633546
     },
     {
         "id": 26,
@@ -1049,7 +1049,7 @@
         "ticker": "PENDLE",
         "amount": 37.27,
         "initialPrice": 4.4847,
-        "initialTotal": 167.14476900000003,
+        "initialTotal": 167.144769,
         "UserId": 1,
         "Operations": [
             {
@@ -1058,7 +1058,7 @@
                 "ticker": "PENDLE",
                 "number": 37.27,
                 "price": 4.4847,
-                "total": 167.14476900000003,
+                "total": 167.144769,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1071,10 +1071,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1.244042970229667,
-        "actualTotal": 46.36548150045969,
-        "profits": -120.77928749954035,
-        "profitsPercent": -72.2602856327142
+        "actualPrice": 1.21244272151612,
+        "actualTotal": 45.187740230906,
+        "profits": -121.957028769094,
+        "profitsPercent": -72.9649091016986
     },
     {
         "id": 27,
@@ -1116,10 +1116,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1.4561497540826136,
-        "actualTotal": 270.2016922178157,
-        "profits": -501.4663077821843,
-        "profitsPercent": -64.98472241717738
+        "actualPrice": 1.46204543508287,
+        "actualTotal": 271.295688888542,
+        "profits": -500.372311111458,
+        "profitsPercent": -64.842952035261
     },
     {
         "id": 28,
@@ -1149,10 +1149,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.08721747755770554,
-        "actualTotal": 7.2390506372895596,
-        "profits": -20.58254936271044,
-        "profitsPercent": -73.98046612240289
+        "actualPrice": 0.0858692035345452,
+        "actualTotal": 7.12714389336725,
+        "profits": -20.6944561066328,
+        "profitsPercent": -74.3826958429161
     },
     {
         "id": 29,
@@ -1160,7 +1160,7 @@
         "ticker": "POL",
         "amount": 574.33,
         "initialPrice": 0.6087,
-        "initialTotal": 349.59467100000006,
+        "initialTotal": 349.594671,
         "UserId": 1,
         "Operations": [
             {
@@ -1169,7 +1169,7 @@
                 "ticker": "POL",
                 "number": 574.33,
                 "price": 0.6087,
-                "total": 349.59467100000006,
+                "total": 349.594671,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1182,17 +1182,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.10497898081787391,
-        "actualTotal": 60.292578053129525,
-        "profits": -289.3020929468705,
-        "profitsPercent": -82.75357634008971
+        "actualPrice": 0.108191331274233,
+        "actualTotal": 62.1375272907304,
+        "profits": -287.45714370927,
+        "profitsPercent": -82.2258368203987
     },
     {
         "id": 30,
         "date": "2024-07-18T03:00:00.000Z",
         "ticker": "TAO",
         "amount": 1.132,
-        "initialPrice": 310.24740282685514,
+        "initialPrice": 310.247402826855,
         "initialTotal": 351.20006,
         "UserId": 1,
         "Operations": [
@@ -1202,7 +1202,7 @@
                 "ticker": "TAO",
                 "number": 0.7706,
                 "price": 327.2,
-                "total": 252.14031999999997,
+                "total": 252.14032,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1227,18 +1227,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 189.94298538141948,
-        "actualTotal": 215.01545945176682,
-        "profits": -136.1846005482332,
-        "profitsPercent": -38.77692975002145
+        "actualPrice": 194.840561012079,
+        "actualTotal": 220.559515065673,
+        "profits": -130.640544934327,
+        "profitsPercent": -37.1983264850031
     },
     {
         "id": 31,
         "date": "2024-05-30T03:00:00.000Z",
         "ticker": "FET",
         "amount": 979.3,
-        "initialPrice": 0.7683897682017767,
-        "initialTotal": 752.4840999999999,
+        "initialPrice": 0.768389768201777,
+        "initialTotal": 752.4841,
         "UserId": 1,
         "Operations": [
             {
@@ -1259,7 +1259,7 @@
                 "ticker": "FET",
                 "number": 668.8,
                 "price": 0.598,
-                "total": 399.94239999999996,
+                "total": 399.9424,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1272,17 +1272,17 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.1731531221808013,
-        "actualTotal": 169.56885255165872,
-        "profits": -582.9152474483412,
-        "profitsPercent": -77.46545707056686
+        "actualPrice": 0.171038188544532,
+        "actualTotal": 167.49769804166,
+        "profits": -584.98640195834,
+        "profitsPercent": -77.7406993660517
     },
     {
         "id": 32,
         "date": "2024-03-16T03:00:00.000Z",
         "ticker": "SOL",
         "amount": 9.173,
-        "initialPrice": 171.21146516951924,
+        "initialPrice": 171.211465169519,
         "initialTotal": 1570.52277,
         "UserId": 1,
         "Operations": [
@@ -1328,7 +1328,7 @@
                 "ticker": "SOL",
                 "number": 0.58,
                 "price": 139.98,
-                "total": 81.18839999999999,
+                "total": 81.1884,
                 "buy": true,
                 "exchange": "bi",
                 "comment": "",
@@ -1340,7 +1340,7 @@
                 "ticker": "SOL",
                 "number": 3.062,
                 "price": 160.16,
-                "total": 490.40991999999994,
+                "total": 490.40992,
                 "buy": true,
                 "exchange": "b",
                 "comment": "",
@@ -1353,10 +1353,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 84.31473692646333,
-        "actualTotal": 773.4190818264481,
-        "profits": -797.103688173552,
-        "profitsPercent": -50.75403575164669
+        "actualPrice": 84.1758510427434,
+        "actualTotal": 772.145081615085,
+        "profits": -798.377688384915,
+        "profitsPercent": -50.835155251198
     },
     {
         "id": 33,
@@ -1386,10 +1386,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1.460804088769946,
-        "actualTotal": 188.51676765576156,
-        "profits": -613.5289823442384,
-        "profitsPercent": -76.49550943250289
+        "actualPrice": 1.4252432509253,
+        "actualTotal": 183.92764153191,
+        "profits": -618.11810846809,
+        "profitsPercent": -77.0676870325776
     },
     {
         "id": 34,
@@ -1397,7 +1397,7 @@
         "ticker": "BNB",
         "amount": 1.001,
         "initialPrice": 569.4897,
-        "initialTotal": 570.0591896999999,
+        "initialTotal": 570.0591897,
         "UserId": 1,
         "Operations": [
             {
@@ -1406,7 +1406,7 @@
                 "ticker": "BNB",
                 "number": 1.001,
                 "price": 569.4897,
-                "total": 570.0591896999999,
+                "total": 570.0591897,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1419,18 +1419,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 614.5723683590022,
-        "actualTotal": 615.1869407273612,
-        "profits": 45.12775102736123,
-        "profitsPercent": 7.916327259123779
+        "actualPrice": 616.146759278617,
+        "actualTotal": 616.762906037895,
+        "profits": 46.7037163378955,
+        "profitsPercent": 8.1927836936501
     },
     {
         "id": 35,
         "date": "2024-06-02T03:00:00.000Z",
         "ticker": "LINK",
-        "amount": 32.809900000000006,
-        "initialPrice": 15.467926187945203,
-        "initialTotal": 507.5011114338634,
+        "amount": 32.8099,
+        "initialPrice": 15.4679261879452,
+        "initialTotal": 507.501111433863,
         "UserId": 1,
         "Operations": [
             {
@@ -1439,7 +1439,7 @@
                 "ticker": "LINK",
                 "number": 56.1499,
                 "price": 16.0466,
-                "total": 901.0149853400002,
+                "total": 901.01498534,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1451,7 +1451,7 @@
                 "ticker": "LINK",
                 "number": 32.56,
                 "price": 14.47,
-                "total": 471.14320000000004,
+                "total": 471.1432,
                 "buy": true,
                 "exchange": "b",
                 "comment": "",
@@ -1476,18 +1476,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 8.86243534290322,
-        "actualTotal": 290.77561735712044,
-        "profits": -216.72549407674296,
-        "profitsPercent": -42.70443732909661
+        "actualPrice": 8.82105408340007,
+        "actualTotal": 289.417902370948,
+        "profits": -218.083209062915,
+        "profitsPercent": -42.9719667897389
     },
     {
         "id": 36,
         "date": "2024-03-21T03:00:00.000Z",
         "ticker": "BTC",
-        "amount": 0.017612569999999998,
+        "amount": 0.01761257,
         "initialPrice": 84656.9136839109,
-        "initialTotal": 1491.0258182418384,
+        "initialTotal": 1491.02581824184,
         "UserId": 1,
         "Operations": [
             {
@@ -1557,10 +1557,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 68486.80578907668,
-        "actualTotal": 1206.2286610365181,
-        "profits": -284.7971572053202,
-        "profitsPercent": -19.100752899177987
+        "actualPrice": 67469.3771116895,
+        "actualTotal": 1188.30912723603,
+        "profits": -302.716691005809,
+        "profitsPercent": -20.3025787549917
     },
     {
         "id": 37,
@@ -1568,7 +1568,7 @@
         "ticker": "ONDO",
         "amount": 1716.57,
         "initialPrice": 1.204544,
-        "initialTotal": 2067.6840940800002,
+        "initialTotal": 2067.68409408,
         "UserId": 1,
         "Operations": [
             {
@@ -1577,7 +1577,7 @@
                 "ticker": "ONDO",
                 "number": 1716.57,
                 "price": 1.204544,
-                "total": 2067.6840940800002,
+                "total": 2067.68409408,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1590,18 +1590,18 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.27547055492497924,
-        "actualTotal": 472.8644904675716,
-        "profits": -1594.8196036124286,
-        "profitsPercent": -77.13071876785081
+        "actualPrice": 0.275257223820341,
+        "actualTotal": 472.498292693283,
+        "profits": -1595.18580138672,
+        "profitsPercent": -77.1484292960373
     },
     {
         "id": 38,
         "date": "2024-03-16T03:00:00.000Z",
         "ticker": "ETH",
         "amount": 18.41845,
-        "initialPrice": 3644.053747848503,
-        "initialTotal": 67117.82175206026,
+        "initialPrice": 3644.0537478485,
+        "initialTotal": 67117.8217520603,
         "UserId": 1,
         "Operations": [
             {
@@ -1646,7 +1646,7 @@
                 "ticker": "ETH",
                 "number": 0.2523,
                 "price": 2619.68,
-                "total": 660.9452640000001,
+                "total": 660.945264,
                 "buy": true,
                 "exchange": "bi",
                 "comment": "dip",
@@ -1694,7 +1694,7 @@
                 "ticker": "ETH",
                 "number": 0.0966,
                 "price": 2390.21,
-                "total": 230.89428600000002,
+                "total": 230.894286,
                 "buy": true,
                 "exchange": "bi",
                 "comment": "",
@@ -1706,7 +1706,7 @@
                 "ticker": "ETH",
                 "number": 0.1485,
                 "price": 2185.05,
-                "total": 324.47992500000004,
+                "total": 324.479925,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1742,7 +1742,7 @@
                 "ticker": "ETH",
                 "number": 0.237,
                 "price": 2023.8,
-                "total": 479.64059999999995,
+                "total": 479.6406,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1754,7 +1754,7 @@
                 "ticker": "ETH",
                 "number": 0.0743,
                 "price": 1945.23,
-                "total": 144.53058900000002,
+                "total": 144.530589,
                 "buy": true,
                 "exchange": "",
                 "comment": "",
@@ -1778,7 +1778,7 @@
                 "ticker": "ETH",
                 "number": 0.4824,
                 "price": 1675.8,
-                "total": 808.4059199999999,
+                "total": 808.40592,
                 "buy": true,
                 "exchange": "b",
                 "comment": "",
@@ -1946,7 +1946,7 @@
                 "ticker": "ETH",
                 "number": 0.288,
                 "price": 3926.01,
-                "total": 1130.6908799999999,
+                "total": 1130.69088,
                 "buy": true,
                 "exchange": "binance",
                 "comment": "",
@@ -1983,10 +1983,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 1980.921629344242,
-        "actualTotal": 36485.505983995456,
-        "profits": -30632.315768064807,
-        "profitsPercent": -45.63961548279017
+        "actualPrice": 1982.23220015748,
+        "actualTotal": 36509.6446669906,
+        "profits": -30608.1770850697,
+        "profitsPercent": -45.6036508427512
     },
     {
         "id": 39,
@@ -2016,10 +2016,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.16055127536624672,
-        "actualTotal": 86.58530280501685,
-        "profits": -213.37335719498316,
-        "profitsPercent": -71.13425469862518
+        "actualPrice": 0.16380351758097,
+        "actualTotal": 88.3392370314173,
+        "profits": -211.619422968583,
+        "profitsPercent": -70.549529381343
     },
     {
         "id": 40,
@@ -2049,10 +2049,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 126.34736152719246,
-        "actualTotal": 72.14434343202689,
-        "profits": -40.177066567973114,
-        "profitsPercent": -35.76973131656121
+        "actualPrice": 128.593276450123,
+        "actualTotal": 73.42676085302,
+        "profits": -38.89464914698,
+        "profitsPercent": -34.6279922474086
     },
     {
         "id": 41,
@@ -2082,10 +2082,10 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 30.40038798429194,
-        "actualTotal": 186.35437834370958,
-        "profits": 90.93479834370959,
-        "profitsPercent": 95.29993565650739
+        "actualPrice": 29.8614055139218,
+        "actualTotal": 183.05041580034,
+        "profits": 87.6308358003405,
+        "profitsPercent": 91.8373732103416
     },
     {
         "id": 42,
@@ -2093,7 +2093,7 @@
         "ticker": "S",
         "amount": 239,
         "initialPrice": 0.4361,
-        "initialTotal": 104.22789999999999,
+        "initialTotal": 104.2279,
         "UserId": 1,
         "Operations": [
             {
@@ -2102,7 +2102,7 @@
                 "ticker": "S",
                 "number": 239,
                 "price": 0.4361,
-                "total": 104.22789999999999,
+                "total": 104.2279,
                 "buy": true,
                 "exchange": "",
                 "comment": "Cambio de token",
@@ -2115,9 +2115,9 @@
             "email": "pablo.rm.singh@gmail.com"
         },
         "Tasks": [],
-        "actualPrice": 0.04827174319789709,
-        "actualTotal": 11.536946624297405,
-        "profits": -92.69095337570259,
-        "profitsPercent": -88.93103801928524
+        "actualPrice": 0.049847110794472,
+        "actualTotal": 11.9134594798788,
+        "profits": -92.3144405201212,
+        "profitsPercent": -88.5697980292428
     }
 ]
